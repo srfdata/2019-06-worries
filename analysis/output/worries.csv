@@ -1,0 +1,841 @@
+year,topic,value,rank
+1995,Arbeitslosigkeit,70,1
+1995,EU / Bilaterale / Integration,48,2
+1995,AHV / Altersvorsorge,40,3
+1995,Drogen / Alkohol,34,4
+1995,"Gesundheit, Krankenkassen",32,5
+1995,Flüchtlinge / Asyl,31,6
+1995,Umweltschutz,31,7
+1995,AusländerInnen,30,8
+1995,Soziale Sicherheit,22,9
+1995,Inflation,15,10
+1995,Persönliche Sicherheit,14,11
+1995,Landwirtschaft / Milchpreis / Subventionen,13,12
+1995,Verkehr / Neat,12,13
+1995,Zusammenleben,11,14
+1995,Gleichstellung,10,15
+1995,(Kern-) Energie,10,16
+1995,Familienpolitik / Kinderbetreuung,10,17
+1995,Armeefragen,9,18
+1995,Reform des Staates,5,19
+1995,Neue Armut,NA,NA
+1995,Löhne,NA,NA
+1995,Bundesfinanzen,NA,NA
+1995,Rassismus / Fremdenfeindlichkeit,NA,NA
+1995,Bildungswesen,NA,NA
+1995,Internet-Sicherheit / Cyber-Spionage,NA,NA
+1995,Globalisierung,NA,NA
+1995,Terrorismus / Extremismus,NA,NA
+1995,Bankenkrise,NA,NA
+1995,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+1995,Sozialpartnerschaft,NA,NA
+1995,Religiöser Fundamentalismus,NA,NA
+1995,Schwächen direkter Demokratie,NA,NA
+1995,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+1995,Benzin-/ Erdölpreise,NA,NA
+1995,Euro-Krise,NA,NA
+1996,Arbeitslosigkeit,75,1
+1996,"Gesundheit, Krankenkassen",46,2
+1996,AHV / Altersvorsorge,36,3
+1996,EU / Bilaterale / Integration,34,4
+1996,Drogen / Alkohol,30,5
+1996,Flüchtlinge / Asyl,25,6
+1996,AusländerInnen,22,7
+1996,Neue Armut,21,8
+1996,Umweltschutz,20,9
+1996,Bundesfinanzen,19,10
+1996,Soziale Sicherheit,18,11
+1996,Löhne,13,12
+1996,Persönliche Sicherheit,13,13
+1996,Landwirtschaft / Milchpreis / Subventionen,13,14
+1996,Inflation,12,15
+1996,Gleichstellung,8,16
+1996,Globalisierung,8,17
+1996,Familienpolitik / Kinderbetreuung,8,18
+1996,Sozialpartnerschaft,8,19
+1996,Verkehr / Neat,7,20
+1996,Zusammenleben,6,21
+1996,Armeefragen,6,22
+1996,Reform des Staates,5,23
+1996,(Kern-) Energie,4,24
+1996,Rassismus / Fremdenfeindlichkeit,NA,NA
+1996,Bildungswesen,NA,NA
+1996,Internet-Sicherheit / Cyber-Spionage,NA,NA
+1996,Terrorismus / Extremismus,NA,NA
+1996,Bankenkrise,NA,NA
+1996,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+1996,Religiöser Fundamentalismus,NA,NA
+1996,Schwächen direkter Demokratie,NA,NA
+1996,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+1996,Benzin-/ Erdölpreise,NA,NA
+1996,Euro-Krise,NA,NA
+1997,Arbeitslosigkeit,81,1
+1997,"Gesundheit, Krankenkassen",52,2
+1997,AHV / Altersvorsorge,39,3
+1997,EU / Bilaterale / Integration,39,4
+1997,Flüchtlinge / Asyl,30,5
+1997,Drogen / Alkohol,28,6
+1997,Bundesfinanzen,22,7
+1997,AusländerInnen,21,8
+1997,Umweltschutz,19,9
+1997,Neue Armut,19,10
+1997,Soziale Sicherheit,15,11
+1997,Löhne,14,12
+1997,Persönliche Sicherheit,13,13
+1997,Inflation,10,14
+1997,Globalisierung,9,15
+1997,Landwirtschaft / Milchpreis / Subventionen,8,16
+1997,Verkehr / Neat,7,17
+1997,Sozialpartnerschaft,7,18
+1997,Zusammenleben,6,19
+1997,Reform des Staates,6,20
+1997,(Kern-) Energie,5,21
+1997,Armeefragen,4,22
+1997,Gleichstellung,3,23
+1997,Familienpolitik / Kinderbetreuung,3,24
+1997,Rassismus / Fremdenfeindlichkeit,NA,NA
+1997,Bildungswesen,NA,NA
+1997,Internet-Sicherheit / Cyber-Spionage,NA,NA
+1997,Terrorismus / Extremismus,NA,NA
+1997,Bankenkrise,NA,NA
+1997,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+1997,Religiöser Fundamentalismus,NA,NA
+1997,Schwächen direkter Demokratie,NA,NA
+1997,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+1997,Benzin-/ Erdölpreise,NA,NA
+1997,Euro-Krise,NA,NA
+1998,Arbeitslosigkeit,74,1
+1998,Flüchtlinge / Asyl,47,2
+1998,"Gesundheit, Krankenkassen",46,3
+1998,AHV / Altersvorsorge,45,4
+1998,EU / Bilaterale / Integration,40,5
+1998,AusländerInnen,24,6
+1998,Drogen / Alkohol,22,7
+1998,Umweltschutz,19,8
+1998,Neue Armut,17,9
+1998,Bundesfinanzen,17,10
+1998,Soziale Sicherheit,15,11
+1998,Persönliche Sicherheit,15,12
+1998,Löhne,12,13
+1998,Verkehr / Neat,12,14
+1998,Globalisierung,10,15
+1998,Inflation,8,16
+1998,Gleichstellung,7,17
+1998,Familienpolitik / Kinderbetreuung,7,18
+1998,Sozialpartnerschaft,7,19
+1998,Landwirtschaft / Milchpreis / Subventionen,7,20
+1998,Zusammenleben,5,21
+1998,(Kern-) Energie,4,22
+1998,Reform des Staates,4,23
+1998,Armeefragen,4,24
+1998,Rassismus / Fremdenfeindlichkeit,NA,NA
+1998,Bildungswesen,NA,NA
+1998,Internet-Sicherheit / Cyber-Spionage,NA,NA
+1998,Terrorismus / Extremismus,NA,NA
+1998,Bankenkrise,NA,NA
+1998,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+1998,Religiöser Fundamentalismus,NA,NA
+1998,Schwächen direkter Demokratie,NA,NA
+1998,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+1998,Benzin-/ Erdölpreise,NA,NA
+1998,Euro-Krise,NA,NA
+1999,Arbeitslosigkeit,57,1
+1999,Flüchtlinge / Asyl,56,2
+1999,"Gesundheit, Krankenkassen",48,3
+1999,AHV / Altersvorsorge,45,4
+1999,EU / Bilaterale / Integration,43,5
+1999,Bundesfinanzen,26,6
+1999,AusländerInnen,22,7
+1999,Umweltschutz,18,8
+1999,Neue Armut,18,9
+1999,Persönliche Sicherheit,18,10
+1999,Soziale Sicherheit,17,11
+1999,Drogen / Alkohol,16,12
+1999,Löhne,13,13
+1999,Globalisierung,13,14
+1999,Verkehr / Neat,7,15
+1999,Gleichstellung,7,16
+1999,(Kern-) Energie,7,17
+1999,Familienpolitik / Kinderbetreuung,7,18
+1999,Landwirtschaft / Milchpreis / Subventionen,7,19
+1999,Armeefragen,7,20
+1999,Zusammenleben,6,21
+1999,Inflation,5,22
+1999,Sozialpartnerschaft,5,23
+1999,Reform des Staates,4,24
+1999,Rassismus / Fremdenfeindlichkeit,NA,NA
+1999,Bildungswesen,NA,NA
+1999,Internet-Sicherheit / Cyber-Spionage,NA,NA
+1999,Terrorismus / Extremismus,NA,NA
+1999,Bankenkrise,NA,NA
+1999,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+1999,Religiöser Fundamentalismus,NA,NA
+1999,Schwächen direkter Demokratie,NA,NA
+1999,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+1999,Benzin-/ Erdölpreise,NA,NA
+1999,Euro-Krise,NA,NA
+2000,"Gesundheit, Krankenkassen",59,1
+2000,AHV / Altersvorsorge,49,2
+2000,EU / Bilaterale / Integration,45,3
+2000,Flüchtlinge / Asyl,41,4
+2000,Arbeitslosigkeit,34,5
+2000,Umweltschutz,25,6
+2000,AusländerInnen,22,7
+2000,Bundesfinanzen,22,8
+2000,Neue Armut,18,9
+2000,Rassismus / Fremdenfeindlichkeit,15,10
+2000,Soziale Sicherheit,15,11
+2000,Persönliche Sicherheit,15,12
+2000,Drogen / Alkohol,15,13
+2000,Löhne,13,14
+2000,Verkehr / Neat,11,15
+2000,(Kern-) Energie,11,16
+2000,Globalisierung,11,17
+2000,Inflation,10,18
+2000,Gleichstellung,7,19
+2000,Familienpolitik / Kinderbetreuung,7,20
+2000,Sozialpartnerschaft,7,21
+2000,Landwirtschaft / Milchpreis / Subventionen,7,22
+2000,Armeefragen,7,23
+2000,Zusammenleben,5,24
+2000,Reform des Staates,5,25
+2000,Terrorismus / Extremismus,1,26
+2000,Bildungswesen,NA,NA
+2000,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2000,Bankenkrise,NA,NA
+2000,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2000,Religiöser Fundamentalismus,NA,NA
+2000,Schwächen direkter Demokratie,NA,NA
+2000,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2000,Benzin-/ Erdölpreise,NA,NA
+2000,Euro-Krise,NA,NA
+2001,"Gesundheit, Krankenkassen",64,1
+2001,Arbeitslosigkeit,45,2
+2001,AHV / Altersvorsorge,37,3
+2001,EU / Bilaterale / Integration,34,4
+2001,Flüchtlinge / Asyl,32,5
+2001,Neue Armut,27,6
+2001,Terrorismus / Extremismus,27,7
+2001,Globalisierung,24,8
+2001,AusländerInnen,22,9
+2001,Löhne,19,10
+2001,Bundesfinanzen,19,11
+2001,Umweltschutz,15,12
+2001,Persönliche Sicherheit,14,13
+2001,Soziale Sicherheit,13,14
+2001,Drogen / Alkohol,11,15
+2001,Verkehr / Neat,10,16
+2001,Rassismus / Fremdenfeindlichkeit,10,17
+2001,Inflation,10,18
+2001,Zusammenleben,10,19
+2001,Landwirtschaft / Milchpreis / Subventionen,7,20
+2001,(Kern-) Energie,6,21
+2001,Sozialpartnerschaft,5,22
+2001,Armeefragen,5,23
+2001,Gleichstellung,4,24
+2001,Familienpolitik / Kinderbetreuung,4,25
+2001,Reform des Staates,3,26
+2001,Bildungswesen,NA,NA
+2001,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2001,Bankenkrise,NA,NA
+2001,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2001,Religiöser Fundamentalismus,NA,NA
+2001,Schwächen direkter Demokratie,NA,NA
+2001,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2001,Benzin-/ Erdölpreise,NA,NA
+2001,Euro-Krise,NA,NA
+2002,"Gesundheit, Krankenkassen",58,1
+2002,Arbeitslosigkeit,52,2
+2002,AHV / Altersvorsorge,49,3
+2002,Flüchtlinge / Asyl,43,4
+2002,Neue Armut,22,5
+2002,EU / Bilaterale / Integration,21,6
+2002,Bundesfinanzen,20,7
+2002,AusländerInnen,19,8
+2002,Persönliche Sicherheit,19,9
+2002,Umweltschutz,18,10
+2002,Globalisierung,17,11
+2002,Soziale Sicherheit,16,12
+2002,Drogen / Alkohol,12,13
+2002,Landwirtschaft / Milchpreis / Subventionen,12,14
+2002,Verkehr / Neat,10,15
+2002,Löhne,9,16
+2002,Inflation,9,17
+2002,Zusammenleben,9,18
+2002,Terrorismus / Extremismus,8,19
+2002,Rassismus / Fremdenfeindlichkeit,7,20
+2002,(Kern-) Energie,6,21
+2002,Gleichstellung,5,22
+2002,Familienpolitik / Kinderbetreuung,5,23
+2002,Sozialpartnerschaft,5,24
+2002,Reform des Staates,4,25
+2002,Armeefragen,4,26
+2002,Bildungswesen,NA,NA
+2002,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2002,Bankenkrise,NA,NA
+2002,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2002,Religiöser Fundamentalismus,NA,NA
+2002,Schwächen direkter Demokratie,NA,NA
+2002,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2002,Benzin-/ Erdölpreise,NA,NA
+2002,Euro-Krise,NA,NA
+2003,Arbeitslosigkeit,67,1
+2003,"Gesundheit, Krankenkassen",63,2
+2003,AHV / Altersvorsorge,59,3
+2003,Flüchtlinge / Asyl,36,4
+2003,Neue Armut,27,5
+2003,Bundesfinanzen,22,6
+2003,Soziale Sicherheit,21,7
+2003,AusländerInnen,18,8
+2003,Drogen / Alkohol,18,9
+2003,Persönliche Sicherheit,16,10
+2003,EU / Bilaterale / Integration,15,11
+2003,Globalisierung,15,12
+2003,Umweltschutz,14,13
+2003,Löhne,12,14
+2003,Rassismus / Fremdenfeindlichkeit,11,15
+2003,Landwirtschaft / Milchpreis / Subventionen,11,16
+2003,Inflation,10,17
+2003,Zusammenleben,7,18
+2003,Verkehr / Neat,6,19
+2003,Terrorismus / Extremismus,6,20
+2003,Sozialpartnerschaft,6,21
+2003,(Kern-) Energie,4,22
+2003,Reform des Staates,4,23
+2003,Gleichstellung,3,24
+2003,Familienpolitik / Kinderbetreuung,3,25
+2003,Armeefragen,3,26
+2003,Bildungswesen,NA,NA
+2003,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2003,Bankenkrise,NA,NA
+2003,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2003,Religiöser Fundamentalismus,NA,NA
+2003,Schwächen direkter Demokratie,NA,NA
+2003,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2003,Benzin-/ Erdölpreise,NA,NA
+2003,Euro-Krise,NA,NA
+2004,Arbeitslosigkeit,69,1
+2004,"Gesundheit, Krankenkassen",56,2
+2004,AHV / Altersvorsorge,49,3
+2004,Flüchtlinge / Asyl,45,4
+2004,Bundesfinanzen,26,5
+2004,AusländerInnen,24,6
+2004,Persönliche Sicherheit,23,7
+2004,Neue Armut,22,8
+2004,Soziale Sicherheit,22,9
+2004,EU / Bilaterale / Integration,18,10
+2004,Inflation,15,11
+2004,Löhne,12,12
+2004,Umweltschutz,11,13
+2004,Drogen / Alkohol,11,14
+2004,Terrorismus / Extremismus,11,15
+2004,Rassismus / Fremdenfeindlichkeit,10,16
+2004,Globalisierung,10,17
+2004,Sozialpartnerschaft,8,18
+2004,Verkehr / Neat,7,19
+2004,Landwirtschaft / Milchpreis / Subventionen,6,20
+2004,Armeefragen,6,21
+2004,Zusammenleben,5,22
+2004,Reform des Staates,5,23
+2004,Gleichstellung,3,24
+2004,Familienpolitik / Kinderbetreuung,3,25
+2004,(Kern-) Energie,2,26
+2004,Bildungswesen,NA,NA
+2004,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2004,Bankenkrise,NA,NA
+2004,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2004,Religiöser Fundamentalismus,NA,NA
+2004,Schwächen direkter Demokratie,NA,NA
+2004,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2004,Benzin-/ Erdölpreise,NA,NA
+2004,Euro-Krise,NA,NA
+2005,Arbeitslosigkeit,71,1
+2005,"Gesundheit, Krankenkassen",51,2
+2005,AHV / Altersvorsorge,45,3
+2005,AusländerInnen,30,4
+2005,Neue Armut,29,5
+2005,Flüchtlinge / Asyl,28,6
+2005,Bundesfinanzen,23,7
+2005,Löhne,21,8
+2005,Persönliche Sicherheit,20,9
+2005,EU / Bilaterale / Integration,19,10
+2005,Globalisierung,16,11
+2005,Soziale Sicherheit,15,12
+2005,Terrorismus / Extremismus,15,13
+2005,Drogen / Alkohol,14,14
+2005,Inflation,12,15
+2005,Umweltschutz,9,16
+2005,Sozialpartnerschaft,9,17
+2005,Rassismus / Fremdenfeindlichkeit,7,18
+2005,Reform des Staates,6,19
+2005,(Kern-) Energie,5,20
+2005,Zusammenleben,5,21
+2005,Armeefragen,5,22
+2005,Verkehr / Neat,4,23
+2005,Gleichstellung,4,24
+2005,Familienpolitik / Kinderbetreuung,4,25
+2005,Landwirtschaft / Milchpreis / Subventionen,4,26
+2005,Bildungswesen,NA,NA
+2005,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2005,Bankenkrise,NA,NA
+2005,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2005,Religiöser Fundamentalismus,NA,NA
+2005,Schwächen direkter Demokratie,NA,NA
+2005,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2005,Benzin-/ Erdölpreise,NA,NA
+2005,Euro-Krise,NA,NA
+2006,Arbeitslosigkeit,66,1
+2006,"Gesundheit, Krankenkassen",55,2
+2006,AHV / Altersvorsorge,51,3
+2006,Flüchtlinge / Asyl,39,4
+2006,Neue Armut,28,5
+2006,AusländerInnen,27,6
+2006,Löhne,26,7
+2006,Soziale Sicherheit,19,8
+2006,Inflation,19,9
+2006,EU / Bilaterale / Integration,18,10
+2006,Bundesfinanzen,17,11
+2006,Drogen / Alkohol,14,12
+2006,Persönliche Sicherheit,13,13
+2006,(Kern-) Energie,11,14
+2006,Globalisierung,11,15
+2006,Terrorismus / Extremismus,11,16
+2006,Landwirtschaft / Milchpreis / Subventionen,10,17
+2006,Rassismus / Fremdenfeindlichkeit,9,18
+2006,Sozialpartnerschaft,8,19
+2006,Umweltschutz,7,20
+2006,Gleichstellung,6,21
+2006,Familienpolitik / Kinderbetreuung,6,22
+2006,Reform des Staates,6,23
+2006,Zusammenleben,5,24
+2006,Armeefragen,4,25
+2006,Verkehr / Neat,3,26
+2006,Bildungswesen,NA,NA
+2006,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2006,Bankenkrise,NA,NA
+2006,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2006,Religiöser Fundamentalismus,NA,NA
+2006,Schwächen direkter Demokratie,NA,NA
+2006,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2006,Benzin-/ Erdölpreise,NA,NA
+2006,Euro-Krise,NA,NA
+2007,Arbeitslosigkeit,57,1
+2007,AHV / Altersvorsorge,45,2
+2007,"Gesundheit, Krankenkassen",38,3
+2007,AusländerInnen,35,4
+2007,Persönliche Sicherheit,30,5
+2007,Flüchtlinge / Asyl,26,6
+2007,Umweltschutz,25,7
+2007,Neue Armut,25,8
+2007,Löhne,23,9
+2007,EU / Bilaterale / Integration,20,10
+2007,Inflation,20,11
+2007,Soziale Sicherheit,19,12
+2007,Bundesfinanzen,18,13
+2007,Globalisierung,14,14
+2007,(Kern-) Energie,10,15
+2007,Drogen / Alkohol,10,16
+2007,Terrorismus / Extremismus,10,17
+2007,Rassismus / Fremdenfeindlichkeit,9,18
+2007,Sozialpartnerschaft,7,19
+2007,Landwirtschaft / Milchpreis / Subventionen,7,20
+2007,Verkehr / Neat,6,21
+2007,Gleichstellung,5,22
+2007,Zusammenleben,5,23
+2007,Familienpolitik / Kinderbetreuung,5,24
+2007,Armeefragen,5,25
+2007,Reform des Staates,4,26
+2007,Bildungswesen,NA,NA
+2007,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2007,Bankenkrise,NA,NA
+2007,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2007,Religiöser Fundamentalismus,NA,NA
+2007,Schwächen direkter Demokratie,NA,NA
+2007,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2007,Benzin-/ Erdölpreise,NA,NA
+2007,Euro-Krise,NA,NA
+2008,Arbeitslosigkeit,53,1
+2008,"Gesundheit, Krankenkassen",40,2
+2008,AHV / Altersvorsorge,39,3
+2008,Inflation,32,4
+2008,Flüchtlinge / Asyl,30,5
+2008,Neue Armut,28,6
+2008,Persönliche Sicherheit,27,7
+2008,AusländerInnen,24,8
+2008,Umweltschutz,20,9
+2008,Bundesfinanzen,20,10
+2008,Soziale Sicherheit,20,11
+2008,EU / Bilaterale / Integration,17,12
+2008,Löhne,17,13
+2008,(Kern-) Energie,15,14
+2008,Globalisierung,11,15
+2008,Drogen / Alkohol,10,16
+2008,Sozialpartnerschaft,10,17
+2008,Armeefragen,9,18
+2008,Rassismus / Fremdenfeindlichkeit,8,19
+2008,Terrorismus / Extremismus,7,20
+2008,Reform des Staates,7,21
+2008,Verkehr / Neat,6,22
+2008,Zusammenleben,5,23
+2008,Gleichstellung,4,24
+2008,Familienpolitik / Kinderbetreuung,4,25
+2008,Landwirtschaft / Milchpreis / Subventionen,4,26
+2008,Bildungswesen,NA,NA
+2008,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2008,Bankenkrise,NA,NA
+2008,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2008,Religiöser Fundamentalismus,NA,NA
+2008,Schwächen direkter Demokratie,NA,NA
+2008,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2008,Benzin-/ Erdölpreise,NA,NA
+2008,Euro-Krise,NA,NA
+2009,Arbeitslosigkeit,66,1
+2009,AHV / Altersvorsorge,36,2
+2009,"Gesundheit, Krankenkassen",36,3
+2009,Soziale Sicherheit,31,4
+2009,Bankenkrise,29,5
+2009,Persönliche Sicherheit,25,6
+2009,AusländerInnen,23,7
+2009,Neue Armut,22,8
+2009,Flüchtlinge / Asyl,17,9
+2009,Umweltschutz,17,10
+2009,Löhne,16,11
+2009,Inflation,14,12
+2009,EU / Bilaterale / Integration,12,13
+2009,Bundesfinanzen,12,14
+2009,Globalisierung,11,15
+2009,Sozialpartnerschaft,11,16
+2009,(Kern-) Energie,9,17
+2009,Drogen / Alkohol,9,18
+2009,Reform des Staates,7,19
+2009,Armeefragen,6,20
+2009,Verkehr / Neat,5,21
+2009,Rassismus / Fremdenfeindlichkeit,5,22
+2009,Zusammenleben,5,23
+2009,Landwirtschaft / Milchpreis / Subventionen,5,24
+2009,Terrorismus / Extremismus,4,25
+2009,Religiöser Fundamentalismus,4,26
+2009,Benzin-/ Erdölpreise,4,27
+2009,Gleichstellung,2,28
+2009,Familienpolitik / Kinderbetreuung,2,29
+2009,Bildungswesen,NA,NA
+2009,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2009,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2009,Schwächen direkter Demokratie,NA,NA
+2009,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2009,Euro-Krise,NA,NA
+2010,Arbeitslosigkeit,76,1
+2010,AHV / Altersvorsorge,45,2
+2010,"Gesundheit, Krankenkassen",41,3
+2010,Soziale Sicherheit,37,4
+2010,AusländerInnen,31,5
+2010,Persönliche Sicherheit,28,6
+2010,EU / Bilaterale / Integration,23,7
+2010,Flüchtlinge / Asyl,19,8
+2010,Umweltschutz,18,9
+2010,Neue Armut,18,10
+2010,Inflation,15,11
+2010,Globalisierung,14,12
+2010,Bankenkrise,13,13
+2010,(Kern-) Energie,11,14
+2010,Bundesfinanzen,10,15
+2010,Reform des Staates,10,16
+2010,Drogen / Alkohol,8,17
+2010,Löhne,7,18
+2010,Verkehr / Neat,7,19
+2010,Religiöser Fundamentalismus,7,20
+2010,Armeefragen,7,21
+2010,Zusammenleben,5,22
+2010,Sozialpartnerschaft,5,23
+2010,Landwirtschaft / Milchpreis / Subventionen,5,24
+2010,Rassismus / Fremdenfeindlichkeit,4,25
+2010,Bildungswesen,3,26
+2010,Terrorismus / Extremismus,3,27
+2010,Benzin-/ Erdölpreise,3,28
+2010,Gleichstellung,2,29
+2010,Familienpolitik / Kinderbetreuung,2,30
+2010,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2010,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2010,Schwächen direkter Demokratie,NA,NA
+2010,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2010,Euro-Krise,NA,NA
+2011,Arbeitslosigkeit,52,1
+2011,AusländerInnen,36,2
+2011,"Gesundheit, Krankenkassen",30,3
+2011,Bankenkrise,30,4
+2011,AHV / Altersvorsorge,27,5
+2011,Persönliche Sicherheit,27,6
+2011,Soziale Sicherheit,26,7
+2011,Flüchtlinge / Asyl,21,8
+2011,Neue Armut,17,9
+2011,Umweltschutz,16,10
+2011,Inflation,15,11
+2011,(Kern-) Energie,15,12
+2011,EU / Bilaterale / Integration,14,13
+2011,Löhne,14,14
+2011,Globalisierung,13,15
+2011,Bundesfinanzen,11,16
+2011,Sozialpartnerschaft,10,17
+2011,Reform des Staates,9,18
+2011,Verkehr / Neat,8,19
+2011,Zusammenleben,8,20
+2011,Drogen / Alkohol,7,21
+2011,Religiöser Fundamentalismus,7,22
+2011,Landwirtschaft / Milchpreis / Subventionen,5,23
+2011,Benzin-/ Erdölpreise,5,24
+2011,Armeefragen,5,25
+2011,Rassismus / Fremdenfeindlichkeit,4,26
+2011,Terrorismus / Extremismus,4,27
+2011,Gleichstellung,3,28
+2011,Bildungswesen,3,29
+2011,Familienpolitik / Kinderbetreuung,3,30
+2011,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2011,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2011,Schwächen direkter Demokratie,NA,NA
+2011,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2011,Euro-Krise,NA,NA
+2012,Arbeitslosigkeit,49,1
+2012,AusländerInnen,37,2
+2012,AHV / Altersvorsorge,36,3
+2012,Flüchtlinge / Asyl,32,4
+2012,"Gesundheit, Krankenkassen",30,5
+2012,Euro-Krise,22,6
+2012,Persönliche Sicherheit,21,7
+2012,EU / Bilaterale / Integration,20,8
+2012,Soziale Sicherheit,19,9
+2012,Umweltschutz,18,10
+2012,Neue Armut,17,11
+2012,(Kern-) Energie,16,12
+2012,Bankenkrise,14,13
+2012,Löhne,13,14
+2012,Benzin-/ Erdölpreise,13,15
+2012,Rassismus / Fremdenfeindlichkeit,10,16
+2012,Drogen / Alkohol,10,17
+2012,Armeefragen,10,18
+2012,Verkehr / Neat,9,19
+2012,Inflation,9,20
+2012,Bundesfinanzen,8,21
+2012,Globalisierung,7,22
+2012,Sozialpartnerschaft,7,23
+2012,Bildungswesen,6,24
+2012,Religiöser Fundamentalismus,6,25
+2012,Landwirtschaft / Milchpreis / Subventionen,6,26
+2012,Gleichstellung,5,27
+2012,Zusammenleben,5,28
+2012,Familienpolitik / Kinderbetreuung,5,29
+2012,Terrorismus / Extremismus,5,30
+2012,Reform des Staates,4,31
+2012,Internet-Sicherheit / Cyber-Spionage,NA,NA
+2012,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2012,Schwächen direkter Demokratie,NA,NA
+2012,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2013,Arbeitslosigkeit,44,1
+2013,AusländerInnen,37,2
+2013,AHV / Altersvorsorge,29,3
+2013,Flüchtlinge / Asyl,28,4
+2013,Persönliche Sicherheit,24,5
+2013,"Gesundheit, Krankenkassen",21,6
+2013,Soziale Sicherheit,21,7
+2013,Löhne,19,8
+2013,(Kern-) Energie,19,9
+2013,Neue Armut,18,10
+2013,Umweltschutz,16,11
+2013,EU / Bilaterale / Integration,16,12
+2013,Euro-Krise,15,13
+2013,Drogen / Alkohol,14,14
+2013,Verkehr / Neat,13,15
+2013,Inflation,13,16
+2013,Zusammenleben,12,17
+2013,Rassismus / Fremdenfeindlichkeit,11,18
+2013,Globalisierung,11,19
+2013,Bankenkrise,11,20
+2013,Bundesfinanzen,10,21
+2013,Armeefragen,10,22
+2013,Religiöser Fundamentalismus,8,23
+2013,Landwirtschaft / Milchpreis / Subventionen,8,24
+2013,Internet-Sicherheit / Cyber-Spionage,7,25
+2013,Benzin-/ Erdölpreise,7,26
+2013,Bildungswesen,6,27
+2013,Sozialpartnerschaft,6,28
+2013,Reform des Staates,6,29
+2013,Gleichstellung,5,30
+2013,Familienpolitik / Kinderbetreuung,5,31
+2013,Terrorismus / Extremismus,5,32
+2013,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2013,Schwächen direkter Demokratie,NA,NA
+2013,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2014,Arbeitslosigkeit,51,1
+2014,AusländerInnen,40,2
+2014,AHV / Altersvorsorge,37,3
+2014,Flüchtlinge / Asyl,26,4
+2014,"Gesundheit, Krankenkassen",23,5
+2014,EU / Bilaterale / Integration,20,6
+2014,Persönliche Sicherheit,17,7
+2014,(Kern-) Energie,17,8
+2014,Umweltschutz,16,9
+2014,Soziale Sicherheit,16,10
+2014,Drogen / Alkohol,16,11
+2014,Euro-Krise,16,12
+2014,Neue Armut,14,13
+2014,Bankenkrise,14,14
+2014,Verkehr / Neat,12,15
+2014,Bundesfinanzen,11,16
+2014,Rassismus / Fremdenfeindlichkeit,11,17
+2014,Löhne,10,18
+2014,Globalisierung,10,19
+2014,Inflation,9,20
+2014,Internet-Sicherheit / Cyber-Spionage,9,21
+2014,Terrorismus / Extremismus,9,22
+2014,Sozialpartnerschaft,9,23
+2014,Benzin-/ Erdölpreise,9,24
+2014,Armeefragen,8,25
+2014,Zusammenleben,7,26
+2014,Religiöser Fundamentalismus,7,27
+2014,Schwächen direkter Demokratie,6,28
+2014,Reform des Staates,6,29
+2014,Landwirtschaft / Milchpreis / Subventionen,5,30
+2014,Bildungswesen,4,31
+2014,Gleichstellung,3,32
+2014,Familienpolitik / Kinderbetreuung,3,33
+2014,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2014,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2015,Arbeitslosigkeit,56,1
+2015,AusländerInnen,43,2
+2015,AHV / Altersvorsorge,38,3
+2015,Flüchtlinge / Asyl,35,4
+2015,EU / Bilaterale / Integration,24,5
+2015,Euro-Krise,24,6
+2015,"Gesundheit, Krankenkassen",22,7
+2015,Persönliche Sicherheit,17,8
+2015,Umweltschutz,15,9
+2015,Neue Armut,15,10
+2015,Internet-Sicherheit / Cyber-Spionage,14,11
+2015,(Kern-) Energie,13,12
+2015,Drogen / Alkohol,13,13
+2015,Soziale Sicherheit,12,14
+2015,Inflation,11,15
+2015,Löhne,10,16
+2015,Rassismus / Fremdenfeindlichkeit,10,17
+2015,Terrorismus / Extremismus,10,18
+2015,Bundesfinanzen,9,19
+2015,Bankenkrise,9,20
+2015,Verkehr / Neat,8,21
+2015,Zusammenleben,7,22
+2015,Globalisierung,7,23
+2015,Sozialpartnerschaft,7,24
+2015,Armeefragen,7,25
+2015,Religiöser Fundamentalismus,6,26
+2015,Benzin-/ Erdölpreise,5,27
+2015,Reform des Staates,5,28
+2015,Schwächen direkter Demokratie,4,29
+2015,Gleichstellung,3,30
+2015,Bildungswesen,3,31
+2015,Familienpolitik / Kinderbetreuung,3,32
+2015,Landwirtschaft / Milchpreis / Subventionen,3,33
+2015,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,NA,NA
+2015,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2016,Arbeitslosigkeit,45,1
+2016,AusländerInnen,36,2
+2016,AHV / Altersvorsorge,28,3
+2016,Flüchtlinge / Asyl,26,4
+2016,EU / Bilaterale / Integration,22,5
+2016,"Gesundheit, Krankenkassen",21,6
+2016,Euro-Krise,19,7
+2016,Neue Armut,16,8
+2016,Verkehr / Neat,15,9
+2016,Persönliche Sicherheit,15,10
+2016,Löhne,14,11
+2016,Terrorismus / Extremismus,14,12
+2016,Umweltschutz,13,13
+2016,Rassismus / Fremdenfeindlichkeit,12,14
+2016,Inflation,12,15
+2016,Soziale Sicherheit,11,16
+2016,Zusammenleben,11,17
+2016,Bankenkrise,11,18
+2016,Bundesfinanzen,10,19
+2016,(Kern-) Energie,10,20
+2016,Drogen / Alkohol,10,21
+2016,Bildungswesen,9,22
+2016,Internet-Sicherheit / Cyber-Spionage,9,23
+2016,Globalisierung,9,24
+2016,Sozialpartnerschaft,9,25
+2016,Landwirtschaft / Milchpreis / Subventionen,9,26
+2016,Reform des Staates,9,27
+2016,Familienpolitik / Kinderbetreuung,8,28
+2016,Religiöser Fundamentalismus,8,29
+2016,Schwächen direkter Demokratie,7,30
+2016,Gleichstellung,6,31
+2016,Benzin-/ Erdölpreise,6,32
+2016,Armeefragen,6,33
+2016,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,4,34
+2016,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2017,AHV / Altersvorsorge,44,1
+2017,Arbeitslosigkeit,44,2
+2017,AusländerInnen,35,3
+2017,"Gesundheit, Krankenkassen",26,4
+2017,EU / Bilaterale / Integration,21,5
+2017,Flüchtlinge / Asyl,19,6
+2017,Verkehr / Neat,19,7
+2017,Soziale Sicherheit,18,8
+2017,Umweltschutz,16,9
+2017,(Kern-) Energie,16,10
+2017,Inflation,15,11
+2017,Neue Armut,14,12
+2017,Persönliche Sicherheit,14,13
+2017,Bundesfinanzen,13,14
+2017,Terrorismus / Extremismus,13,15
+2017,Drogen / Alkohol,11,16
+2017,Zusammenleben,10,17
+2017,Internet-Sicherheit / Cyber-Spionage,10,18
+2017,Familienpolitik / Kinderbetreuung,10,19
+2017,Landwirtschaft / Milchpreis / Subventionen,10,20
+2017,Euro-Krise,10,21
+2017,Schwächen direkter Demokratie,9,22
+2017,Gleichstellung,8,23
+2017,Globalisierung,8,24
+2017,Bankenkrise,8,25
+2017,Rassismus / Fremdenfeindlichkeit,7,26
+2017,Bildungswesen,7,27
+2017,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,7,28
+2017,Religiöser Fundamentalismus,7,29
+2017,Reform des Staates,7,30
+2017,Löhne,6,31
+2017,Sozialpartnerschaft,6,32
+2017,Armeefragen,5,33
+2017,Benzin-/ Erdölpreise,4,34
+2017,Wirtschaftslage / Konjunktur / Frankenstärke,NA,NA
+2018,AHV / Altersvorsorge,45,1
+2018,"Gesundheit, Krankenkassen",41,2
+2018,AusländerInnen,37,3
+2018,Flüchtlinge / Asyl,31,4
+2018,Umweltschutz,23,5
+2018,Arbeitslosigkeit,22,6
+2018,EU / Bilaterale / Integration,22,7
+2018,Neue Armut,18,8
+2018,Löhne,15,9
+2018,Bundesfinanzen,15,10
+2018,Verkehr / Neat,15,11
+2018,Rassismus / Fremdenfeindlichkeit,14,12
+2018,Soziale Sicherheit,13,13
+2018,Inflation,13,14
+2018,Persönliche Sicherheit,12,15
+2018,Gleichstellung,11,16
+2018,(Kern-) Energie,11,17
+2018,Zusammenleben,11,18
+2018,Bildungswesen,10,19
+2018,Internet-Sicherheit / Cyber-Spionage,9,20
+2018,Globalisierung,8,21
+2018,Drogen / Alkohol,8,22
+2018,Familienpolitik / Kinderbetreuung,8,23
+2018,Terrorismus / Extremismus,8,24
+2018,Bankenkrise,7,25
+2018,Digitalisierung / Technologisierung / Zukunft der Arbeitswelt,7,26
+2018,Sozialpartnerschaft,7,27
+2018,Religiöser Fundamentalismus,6,28
+2018,Schwächen direkter Demokratie,6,29
+2018,Landwirtschaft / Milchpreis / Subventionen,6,30
+2018,Wirtschaftslage / Konjunktur / Frankenstärke,6,31
+2018,Benzin-/ Erdölpreise,6,32
+2018,Euro-Krise,5,33
+2018,Reform des Staates,4,34
+2018,Armeefragen,0,35

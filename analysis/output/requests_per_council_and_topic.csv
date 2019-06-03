@@ -1,0 +1,2101 @@
+year,a_council,total,topic,share,n
+2000,Nationalrat,239,Internationale Politik,0.07531380753138076,18
+2000,Ständerat,33,Internationale Politik,0.030303030303030304,1
+2000,Bundesrat,9,Internationale Politik,0.33333333333333337,3
+2000,Volksinitiative,5,Internationale Politik,0.2,1
+2001,Nationalrat,1172,Internationale Politik,0.06399317406143344,75
+2001,Ständerat,122,Internationale Politik,0.04918032786885246,6
+2001,Bundesrat,70,Internationale Politik,0.11428571428571428,8
+2001,Volksinitiative,5,Internationale Politik,0,0
+2002,Nationalrat,1139,Internationale Politik,0.08691834942932397,99
+2002,Ständerat,138,Internationale Politik,0.050724637681159424,7
+2002,Bundesrat,82,Internationale Politik,0.0975609756097561,8
+2003,Nationalrat,1054,Internationale Politik,0.09013282732447818,95
+2003,Ständerat,115,Internationale Politik,0.08695652173913043,10
+2003,Bundesrat,73,Internationale Politik,0.1232876712328767,9
+2003,Volksinitiative,2,Internationale Politik,0,0
+2004,Nationalrat,1249,Internationale Politik,0.07205764611689353,90
+2004,Ständerat,123,Internationale Politik,0.04065040650406505,5
+2004,Bundesrat,75,Internationale Politik,0.08,6
+2004,Volksinitiative,3,Internationale Politik,0,0
+2005,Nationalrat,1348,Internationale Politik,0.09643916913946587,130
+2005,Ständerat,135,Internationale Politik,0.06666666666666667,9
+2005,Bundesrat,74,Internationale Politik,0.08108108108108109,6
+2005,Volksinitiative,3,Internationale Politik,0,0
+2006,Nationalrat,1352,Internationale Politik,0.08431952662721894,114
+2006,Ständerat,124,Internationale Politik,0.06451612903225806,8
+2006,Bundesrat,91,Internationale Politik,0.13186813186813187,12
+2006,Volksinitiative,6,Internationale Politik,0,0
+2007,Nationalrat,1398,Internationale Politik,0.06366237482117311,89
+2007,Ständerat,136,Internationale Politik,0.022058823529411766,3
+2007,Bundesrat,82,Internationale Politik,0.12195121951219512,10
+2007,Volksinitiative,4,Internationale Politik,0,0
+2008,Nationalrat,1644,Internationale Politik,0.05778588807785888,95
+2008,Ständerat,142,Internationale Politik,0.02816901408450704,4
+2008,Bundesrat,60,Internationale Politik,0.16666666666666669,10
+2008,Volksinitiative,6,Internationale Politik,0,0
+2009,Nationalrat,2104,Internationale Politik,0.06368821292775666,134
+2009,Ständerat,201,Internationale Politik,0.05970149253731344,12
+2009,Bundesrat,79,Internationale Politik,0.10126582278481014,8
+2009,Volksinitiative,7,Internationale Politik,0,0
+2010,Nationalrat,1873,Internationale Politik,0.06567004805125468,123
+2010,Ständerat,184,Internationale Politik,0.03804347826086957,7
+2010,Bundesrat,100,Internationale Politik,0.12,12
+2010,Volksinitiative,6,Internationale Politik,0.16666666666666669,1
+2011,Nationalrat,1792,Internationale Politik,0.08091517857142858,145
+2011,Ständerat,179,Internationale Politik,0.027932960893854747,5
+2011,Bundesrat,61,Internationale Politik,0.06557377049180328,4
+2011,Volksinitiative,3,Internationale Politik,0,0
+2012,Nationalrat,1852,Internationale Politik,0.058315334773218146,108
+2012,Ständerat,187,Internationale Politik,0.026737967914438502,5
+2012,Bundesrat,84,Internationale Politik,0.10714285714285714,9
+2012,Volksinitiative,10,Internationale Politik,0,0
+2013,Nationalrat,1940,Internationale Politik,0.0829896907216495,161
+2013,Ständerat,182,Internationale Politik,0.03296703296703297,6
+2013,Bundesrat,86,Internationale Politik,0.06976744186046512,6
+2013,Volksinitiative,11,Internationale Politik,0,0
+2014,Nationalrat,1994,Internationale Politik,0.11133400200601805,222
+2014,Ständerat,185,Internationale Politik,0.08108108108108109,15
+2014,Bundesrat,84,Internationale Politik,0.10714285714285714,9
+2014,Volksinitiative,7,Internationale Politik,0,0
+2015,Nationalrat,1944,Internationale Politik,0.1286008230452675,250
+2015,Ständerat,174,Internationale Politik,0.06896551724137931,12
+2015,Bundesrat,71,Internationale Politik,0.23943661971830985,17
+2015,Volksinitiative,4,Internationale Politik,0,0
+2016,Nationalrat,1811,Internationale Politik,0.14743235781336278,267
+2016,Ständerat,171,Internationale Politik,0.13450292397660818,23
+2016,Bundesrat,69,Internationale Politik,0.3188405797101449,22
+2016,Volksinitiative,3,Internationale Politik,0,0
+2017,Nationalrat,2048,Internationale Politik,0.1328125,272
+2017,Ständerat,179,Internationale Politik,0.09497206703910616,17
+2017,Bundesrat,60,Internationale Politik,0.33333333333333337,20
+2017,Volksinitiative,7,Internationale Politik,0,0
+2018,Nationalrat,1127,Internationale Politik,0.12599822537710736,142
+2018,Ständerat,82,Internationale Politik,0.08536585365853659,7
+2018,Bundesrat,39,Internationale Politik,0.25641025641025644,10
+2018,Volksinitiative,2,Internationale Politik,0,0
+2000,Nationalrat,239,Sicherheitspolitik,0.09205020920502091,22
+2000,Ständerat,33,Sicherheitspolitik,0.15151515151515152,5
+2000,Bundesrat,9,Sicherheitspolitik,0,0
+2000,Volksinitiative,5,Sicherheitspolitik,0,0
+2001,Nationalrat,1172,Sicherheitspolitik,0.06655290102389079,78
+2001,Ständerat,122,Sicherheitspolitik,0.05737704918032786,7
+2001,Bundesrat,70,Sicherheitspolitik,0.1285714285714286,9
+2001,Volksinitiative,5,Sicherheitspolitik,0,0
+2002,Nationalrat,1139,Sicherheitspolitik,0.05970149253731344,68
+2002,Ständerat,138,Sicherheitspolitik,0.021739130434782608,3
+2002,Bundesrat,82,Sicherheitspolitik,0.0975609756097561,8
+2003,Nationalrat,1054,Sicherheitspolitik,0.09392789373814042,99
+2003,Ständerat,115,Sicherheitspolitik,0.026086956521739132,3
+2003,Bundesrat,73,Sicherheitspolitik,0.1232876712328767,9
+2003,Volksinitiative,2,Sicherheitspolitik,0,0
+2004,Nationalrat,1249,Sicherheitspolitik,0.09847878302642114,123
+2004,Ständerat,123,Sicherheitspolitik,0.06504065040650406,8
+2004,Bundesrat,75,Sicherheitspolitik,0.10666666666666666,8
+2004,Volksinitiative,3,Sicherheitspolitik,0,0
+2005,Nationalrat,1348,Sicherheitspolitik,0.11572700296735905,156
+2005,Ständerat,135,Sicherheitspolitik,0.06666666666666667,9
+2005,Bundesrat,74,Sicherheitspolitik,0.12162162162162161,9
+2005,Volksinitiative,3,Sicherheitspolitik,0,0
+2006,Nationalrat,1352,Sicherheitspolitik,0.08727810650887574,118
+2006,Ständerat,124,Sicherheitspolitik,0.04032258064516129,5
+2006,Bundesrat,91,Sicherheitspolitik,0.07692307692307693,7
+2006,Volksinitiative,6,Sicherheitspolitik,0.16666666666666669,1
+2007,Nationalrat,1398,Sicherheitspolitik,0.08798283261802575,123
+2007,Ständerat,136,Sicherheitspolitik,0.0661764705882353,9
+2007,Bundesrat,82,Sicherheitspolitik,0.12195121951219512,10
+2007,Volksinitiative,4,Sicherheitspolitik,0,0
+2008,Nationalrat,1644,Sicherheitspolitik,0.09610705596107057,158
+2008,Ständerat,142,Sicherheitspolitik,0.08450704225352113,12
+2008,Bundesrat,60,Sicherheitspolitik,0.08333333333333334,5
+2008,Volksinitiative,6,Sicherheitspolitik,0.16666666666666669,1
+2009,Nationalrat,2104,Sicherheitspolitik,0.07842205323193915,165
+2009,Ständerat,201,Sicherheitspolitik,0.04975124378109452,10
+2009,Bundesrat,79,Sicherheitspolitik,0.10126582278481014,8
+2009,Volksinitiative,7,Sicherheitspolitik,0.28571428571428575,2
+2010,Nationalrat,1873,Sicherheitspolitik,0.06673785371062467,125
+2010,Ständerat,184,Sicherheitspolitik,0.07065217391304347,13
+2010,Bundesrat,100,Sicherheitspolitik,0.09,9
+2010,Volksinitiative,6,Sicherheitspolitik,0,0
+2011,Nationalrat,1792,Sicherheitspolitik,0.05412946428571429,97
+2011,Ständerat,179,Sicherheitspolitik,0.055865921787709494,10
+2011,Bundesrat,61,Sicherheitspolitik,0.06557377049180328,4
+2011,Volksinitiative,3,Sicherheitspolitik,0,0
+2012,Nationalrat,1852,Sicherheitspolitik,0.04481641468682505,83
+2012,Ständerat,187,Sicherheitspolitik,0.0320855614973262,6
+2012,Bundesrat,84,Sicherheitspolitik,0.10714285714285714,9
+2012,Volksinitiative,10,Sicherheitspolitik,0.1,1
+2013,Nationalrat,1940,Sicherheitspolitik,0.09072164948453608,176
+2013,Ständerat,182,Sicherheitspolitik,0.04395604395604396,8
+2013,Bundesrat,86,Sicherheitspolitik,0.10465116279069768,9
+2013,Volksinitiative,11,Sicherheitspolitik,0,0
+2014,Nationalrat,1994,Sicherheitspolitik,0.08625877632898696,172
+2014,Ständerat,185,Sicherheitspolitik,0.06486486486486487,12
+2014,Bundesrat,84,Sicherheitspolitik,0.14285714285714288,12
+2014,Volksinitiative,7,Sicherheitspolitik,0,0
+2015,Nationalrat,1944,Sicherheitspolitik,0.08539094650205761,166
+2015,Ständerat,174,Sicherheitspolitik,0.07471264367816093,13
+2015,Bundesrat,71,Sicherheitspolitik,0.08450704225352113,6
+2015,Volksinitiative,4,Sicherheitspolitik,0,0
+2016,Nationalrat,1811,Sicherheitspolitik,0.12921038100496962,234
+2016,Ständerat,171,Sicherheitspolitik,0.07602339181286549,13
+2016,Bundesrat,69,Sicherheitspolitik,0.07246376811594203,5
+2016,Volksinitiative,3,Sicherheitspolitik,0,0
+2017,Nationalrat,2048,Sicherheitspolitik,0.1201171875,246
+2017,Ständerat,179,Sicherheitspolitik,0.08938547486033518,16
+2017,Bundesrat,60,Sicherheitspolitik,0.15,9
+2017,Volksinitiative,7,Sicherheitspolitik,0,0
+2018,Nationalrat,1127,Sicherheitspolitik,0.11002661934338953,124
+2018,Ständerat,82,Sicherheitspolitik,0.04878048780487805,4
+2018,Bundesrat,39,Sicherheitspolitik,0.10256410256410257,4
+2018,Volksinitiative,2,Sicherheitspolitik,0,0
+2000,Nationalrat,239,Europapolitik,0.016736401673640166,4
+2000,Ständerat,33,Europapolitik,0.06060606060606061,2
+2000,Bundesrat,9,Europapolitik,0.1111111111111111,1
+2000,Volksinitiative,5,Europapolitik,0,0
+2001,Nationalrat,1172,Europapolitik,0.01962457337883959,23
+2001,Ständerat,122,Europapolitik,0.02459016393442623,3
+2001,Bundesrat,70,Europapolitik,0.014285714285714285,1
+2001,Volksinitiative,5,Europapolitik,0,0
+2002,Nationalrat,1139,Europapolitik,0.02019315188762072,23
+2002,Ständerat,138,Europapolitik,0.028985507246376812,4
+2002,Bundesrat,82,Europapolitik,0.024390243902439025,2
+2003,Nationalrat,1054,Europapolitik,0.018026565464895637,19
+2003,Ständerat,115,Europapolitik,0.034782608695652174,4
+2003,Bundesrat,73,Europapolitik,0.0547945205479452,4
+2003,Volksinitiative,2,Europapolitik,0,0
+2004,Nationalrat,1249,Europapolitik,0.029623698959167336,37
+2004,Ständerat,123,Europapolitik,0.06504065040650406,8
+2004,Bundesrat,75,Europapolitik,0.09333333333333334,7
+2004,Volksinitiative,3,Europapolitik,0,0
+2005,Nationalrat,1348,Europapolitik,0.03486646884272997,47
+2005,Ständerat,135,Europapolitik,0.044444444444444446,6
+2005,Bundesrat,74,Europapolitik,0.05405405405405405,4
+2005,Volksinitiative,3,Europapolitik,0,0
+2006,Nationalrat,1352,Europapolitik,0.03994082840236687,54
+2006,Ständerat,124,Europapolitik,0.04838709677419355,6
+2006,Bundesrat,91,Europapolitik,0.03296703296703297,3
+2006,Volksinitiative,6,Europapolitik,0,0
+2007,Nationalrat,1398,Europapolitik,0.02932761087267525,41
+2007,Ständerat,136,Europapolitik,0.007352941176470589,1
+2007,Bundesrat,82,Europapolitik,0.07317073170731708,6
+2007,Volksinitiative,4,Europapolitik,0,0
+2008,Nationalrat,1644,Europapolitik,0.0267639902676399,44
+2008,Ständerat,142,Europapolitik,0.02816901408450704,4
+2008,Bundesrat,60,Europapolitik,0.1,6
+2008,Volksinitiative,6,Europapolitik,0,0
+2009,Nationalrat,2104,Europapolitik,0.028041825095057035,59
+2009,Ständerat,201,Europapolitik,0.03482587064676617,7
+2009,Bundesrat,79,Europapolitik,0.13924050632911392,11
+2009,Volksinitiative,7,Europapolitik,0,0
+2010,Nationalrat,1873,Europapolitik,0.03150026695141484,59
+2010,Ständerat,184,Europapolitik,0.03260869565217391,6
+2010,Bundesrat,100,Europapolitik,0.06,6
+2010,Volksinitiative,6,Europapolitik,0,0
+2011,Nationalrat,1792,Europapolitik,0.040736607142857144,73
+2011,Ständerat,179,Europapolitik,0.01675977653631285,3
+2011,Bundesrat,61,Europapolitik,0,0
+2011,Volksinitiative,3,Europapolitik,0,0
+2012,Nationalrat,1852,Europapolitik,0.011879049676025918,22
+2012,Ständerat,187,Europapolitik,0.021390374331550804,4
+2012,Bundesrat,84,Europapolitik,0.047619047619047616,4
+2012,Volksinitiative,10,Europapolitik,0,0
+2013,Nationalrat,1940,Europapolitik,0.02268041237113402,44
+2013,Ständerat,182,Europapolitik,0.038461538461538464,7
+2013,Bundesrat,86,Europapolitik,0.06976744186046512,6
+2013,Volksinitiative,11,Europapolitik,0,0
+2014,Nationalrat,1994,Europapolitik,0.07372116349047142,147
+2014,Ständerat,185,Europapolitik,0.06486486486486487,12
+2014,Bundesrat,84,Europapolitik,0.07142857142857144,6
+2014,Volksinitiative,7,Europapolitik,0,0
+2015,Nationalrat,1944,Europapolitik,0.04835390946502058,94
+2015,Ständerat,174,Europapolitik,0.08045977011494253,14
+2015,Bundesrat,71,Europapolitik,0.09859154929577464,7
+2015,Volksinitiative,4,Europapolitik,0,0
+2016,Nationalrat,1811,Europapolitik,0.06184428492545555,112
+2016,Ständerat,171,Europapolitik,0.06432748538011696,11
+2016,Bundesrat,69,Europapolitik,0.07246376811594203,5
+2016,Volksinitiative,3,Europapolitik,0,0
+2017,Nationalrat,2048,Europapolitik,0.07421875,152
+2017,Ständerat,179,Europapolitik,0.1005586592178771,18
+2017,Bundesrat,60,Europapolitik,0.1,6
+2017,Volksinitiative,7,Europapolitik,0.28571428571428575,2
+2018,Nationalrat,1127,Europapolitik,0.05944986690328305,67
+2018,Ständerat,82,Europapolitik,0.04878048780487805,4
+2018,Bundesrat,39,Europapolitik,0.05128205128205129,2
+2018,Volksinitiative,2,Europapolitik,0,0
+2000,Nationalrat,239,Wirtschaft,0.1297071129707113,31
+2000,Ständerat,33,Wirtschaft,0.2121212121212121,7
+2000,Bundesrat,9,Wirtschaft,0.2222222222222222,2
+2000,Volksinitiative,5,Wirtschaft,0.2,1
+2001,Nationalrat,1172,Wirtschaft,0.11774744027303755,138
+2001,Ständerat,122,Wirtschaft,0.13114754098360656,16
+2001,Bundesrat,70,Wirtschaft,0.1285714285714286,9
+2001,Volksinitiative,5,Wirtschaft,0,0
+2002,Nationalrat,1139,Wirtschaft,0.10974539069359088,125
+2002,Ständerat,138,Wirtschaft,0.10144927536231885,14
+2002,Bundesrat,82,Wirtschaft,0.0975609756097561,8
+2003,Nationalrat,1054,Wirtschaft,0.1337760910815939,141
+2003,Ständerat,115,Wirtschaft,0.12173913043478261,14
+2003,Bundesrat,73,Wirtschaft,0.0958904109589041,7
+2003,Volksinitiative,2,Wirtschaft,0,0
+2004,Nationalrat,1249,Wirtschaft,0.12489991993594876,156
+2004,Ständerat,123,Wirtschaft,0.18699186991869918,23
+2004,Bundesrat,75,Wirtschaft,0.16,12
+2004,Volksinitiative,3,Wirtschaft,0,0
+2005,Nationalrat,1348,Wirtschaft,0.10682492581602374,144
+2005,Ständerat,135,Wirtschaft,0.14814814814814814,20
+2005,Bundesrat,74,Wirtschaft,0.12162162162162161,9
+2005,Volksinitiative,3,Wirtschaft,0,0
+2006,Nationalrat,1352,Wirtschaft,0.13535502958579881,183
+2006,Ständerat,124,Wirtschaft,0.1532258064516129,19
+2006,Bundesrat,91,Wirtschaft,0.06593406593406594,6
+2006,Volksinitiative,6,Wirtschaft,0,0
+2007,Nationalrat,1398,Wirtschaft,0.086552217453505,121
+2007,Ständerat,136,Wirtschaft,0.08823529411764706,12
+2007,Bundesrat,82,Wirtschaft,0.08536585365853659,7
+2007,Volksinitiative,4,Wirtschaft,0,0
+2008,Nationalrat,1644,Wirtschaft,0.09428223844282238,155
+2008,Ständerat,142,Wirtschaft,0.07042253521126761,10
+2008,Bundesrat,60,Wirtschaft,0.13333333333333333,8
+2008,Volksinitiative,6,Wirtschaft,0.16666666666666669,1
+2009,Nationalrat,2104,Wirtschaft,0.12595057034220533,265
+2009,Ständerat,201,Wirtschaft,0.13930348258706468,28
+2009,Bundesrat,79,Wirtschaft,0.1518987341772152,12
+2009,Volksinitiative,7,Wirtschaft,0,0
+2010,Nationalrat,1873,Wirtschaft,0.10891617725573946,204
+2010,Ständerat,184,Wirtschaft,0.07608695652173914,14
+2010,Bundesrat,100,Wirtschaft,0.07,7
+2010,Volksinitiative,6,Wirtschaft,0.16666666666666669,1
+2011,Nationalrat,1792,Wirtschaft,0.12388392857142858,222
+2011,Ständerat,179,Wirtschaft,0.1229050279329609,22
+2011,Bundesrat,61,Wirtschaft,0.08196721311475409,5
+2011,Volksinitiative,3,Wirtschaft,0,0
+2012,Nationalrat,1852,Wirtschaft,0.12904967602591794,239
+2012,Ständerat,187,Wirtschaft,0.1497326203208556,28
+2012,Bundesrat,84,Wirtschaft,0.05952380952380953,5
+2012,Volksinitiative,10,Wirtschaft,0.2,2
+2013,Nationalrat,1940,Wirtschaft,0.16237113402061853,315
+2013,Ständerat,182,Wirtschaft,0.12087912087912088,22
+2013,Bundesrat,86,Wirtschaft,0.08139534883720931,7
+2013,Volksinitiative,11,Wirtschaft,0.09090909090909091,1
+2014,Nationalrat,1994,Wirtschaft,0.16399197592778336,327
+2014,Ständerat,185,Wirtschaft,0.1891891891891892,35
+2014,Bundesrat,84,Wirtschaft,0.07142857142857144,6
+2014,Volksinitiative,7,Wirtschaft,0.14285714285714288,1
+2015,Nationalrat,1944,Wirtschaft,0.18364197530864196,357
+2015,Ständerat,174,Wirtschaft,0.22988505747126436,40
+2015,Bundesrat,71,Wirtschaft,0.15492957746478875,11
+2015,Volksinitiative,4,Wirtschaft,0.25,1
+2016,Nationalrat,1811,Wirtschaft,0.21755935946990612,394
+2016,Ständerat,171,Wirtschaft,0.19883040935672514,34
+2016,Bundesrat,69,Wirtschaft,0.13043478260869565,9
+2016,Volksinitiative,3,Wirtschaft,0.33333333333333337,1
+2017,Nationalrat,2048,Wirtschaft,0.208984375,428
+2017,Ständerat,179,Wirtschaft,0.29050279329608936,52
+2017,Bundesrat,60,Wirtschaft,0.11666666666666665,7
+2017,Volksinitiative,7,Wirtschaft,0.28571428571428575,2
+2018,Nationalrat,1127,Wirtschaft,0.1960958296362023,221
+2018,Ständerat,82,Wirtschaft,0.24390243902439024,20
+2018,Bundesrat,39,Wirtschaft,0.10256410256410257,4
+2018,Volksinitiative,2,Wirtschaft,0,0
+2000,Nationalrat,239,Beschäftigung Arbeit,NA,NA
+2000,Ständerat,33,Beschäftigung Arbeit,NA,NA
+2000,Bundesrat,9,Beschäftigung Arbeit,NA,NA
+2000,Volksinitiative,5,Beschäftigung Arbeit,NA,NA
+2001,Nationalrat,1172,Beschäftigung Arbeit,NA,NA
+2001,Ständerat,122,Beschäftigung Arbeit,NA,NA
+2001,Bundesrat,70,Beschäftigung Arbeit,NA,NA
+2001,Volksinitiative,5,Beschäftigung Arbeit,NA,NA
+2002,Nationalrat,1139,Beschäftigung Arbeit,NA,NA
+2002,Ständerat,138,Beschäftigung Arbeit,NA,NA
+2002,Bundesrat,82,Beschäftigung Arbeit,NA,NA
+2003,Nationalrat,1054,Beschäftigung Arbeit,NA,NA
+2003,Ständerat,115,Beschäftigung Arbeit,NA,NA
+2003,Bundesrat,73,Beschäftigung Arbeit,NA,NA
+2003,Volksinitiative,2,Beschäftigung Arbeit,NA,NA
+2004,Nationalrat,1249,Beschäftigung Arbeit,NA,NA
+2004,Ständerat,123,Beschäftigung Arbeit,NA,NA
+2004,Bundesrat,75,Beschäftigung Arbeit,NA,NA
+2004,Volksinitiative,3,Beschäftigung Arbeit,NA,NA
+2005,Nationalrat,1348,Beschäftigung Arbeit,NA,NA
+2005,Ständerat,135,Beschäftigung Arbeit,NA,NA
+2005,Bundesrat,74,Beschäftigung Arbeit,NA,NA
+2005,Volksinitiative,3,Beschäftigung Arbeit,NA,NA
+2006,Nationalrat,1352,Beschäftigung Arbeit,NA,NA
+2006,Ständerat,124,Beschäftigung Arbeit,NA,NA
+2006,Bundesrat,91,Beschäftigung Arbeit,NA,NA
+2006,Volksinitiative,6,Beschäftigung Arbeit,NA,NA
+2007,Nationalrat,1398,Beschäftigung Arbeit,NA,NA
+2007,Ständerat,136,Beschäftigung Arbeit,NA,NA
+2007,Bundesrat,82,Beschäftigung Arbeit,NA,NA
+2007,Volksinitiative,4,Beschäftigung Arbeit,NA,NA
+2008,Nationalrat,1644,Beschäftigung Arbeit,NA,NA
+2008,Ständerat,142,Beschäftigung Arbeit,NA,NA
+2008,Bundesrat,60,Beschäftigung Arbeit,NA,NA
+2008,Volksinitiative,6,Beschäftigung Arbeit,NA,NA
+2009,Nationalrat,2104,Beschäftigung Arbeit,NA,NA
+2009,Ständerat,201,Beschäftigung Arbeit,NA,NA
+2009,Bundesrat,79,Beschäftigung Arbeit,NA,NA
+2009,Volksinitiative,7,Beschäftigung Arbeit,NA,NA
+2010,Nationalrat,1873,Beschäftigung Arbeit,NA,NA
+2010,Ständerat,184,Beschäftigung Arbeit,NA,NA
+2010,Bundesrat,100,Beschäftigung Arbeit,NA,NA
+2010,Volksinitiative,6,Beschäftigung Arbeit,NA,NA
+2011,Nationalrat,1792,Beschäftigung Arbeit,NA,NA
+2011,Ständerat,179,Beschäftigung Arbeit,NA,NA
+2011,Bundesrat,61,Beschäftigung Arbeit,NA,NA
+2011,Volksinitiative,3,Beschäftigung Arbeit,NA,NA
+2012,Nationalrat,1852,Beschäftigung Arbeit,0.0032397408207343412,6
+2012,Ständerat,187,Beschäftigung Arbeit,0,0
+2012,Bundesrat,84,Beschäftigung Arbeit,0,0
+2012,Volksinitiative,10,Beschäftigung Arbeit,0,0
+2013,Nationalrat,1940,Beschäftigung Arbeit,0.005670103092783505,11
+2013,Ständerat,182,Beschäftigung Arbeit,0,0
+2013,Bundesrat,86,Beschäftigung Arbeit,0,0
+2013,Volksinitiative,11,Beschäftigung Arbeit,0,0
+2014,Nationalrat,1994,Beschäftigung Arbeit,0.04212637913741224,84
+2014,Ständerat,185,Beschäftigung Arbeit,0.03783783783783784,7
+2014,Bundesrat,84,Beschäftigung Arbeit,0.011904761904761904,1
+2014,Volksinitiative,7,Beschäftigung Arbeit,0,0
+2015,Nationalrat,1944,Beschäftigung Arbeit,0.07818930041152264,152
+2015,Ständerat,174,Beschäftigung Arbeit,0.09195402298850575,16
+2015,Bundesrat,71,Beschäftigung Arbeit,0.05633802816901408,4
+2015,Volksinitiative,4,Beschäftigung Arbeit,0,0
+2016,Nationalrat,1811,Beschäftigung Arbeit,0.0905577029265599,164
+2016,Ständerat,171,Beschäftigung Arbeit,0.10526315789473685,18
+2016,Bundesrat,69,Beschäftigung Arbeit,0.043478260869565216,3
+2016,Volksinitiative,3,Beschäftigung Arbeit,0,0
+2017,Nationalrat,2048,Beschäftigung Arbeit,0.076171875,156
+2017,Ständerat,179,Beschäftigung Arbeit,0.06145251396648045,11
+2017,Bundesrat,60,Beschäftigung Arbeit,0.03333333333333333,2
+2017,Volksinitiative,7,Beschäftigung Arbeit,0,0
+2018,Nationalrat,1127,Beschäftigung Arbeit,0.09494232475598935,107
+2018,Ständerat,82,Beschäftigung Arbeit,0.0975609756097561,8
+2018,Bundesrat,39,Beschäftigung Arbeit,0.05128205128205129,2
+2018,Volksinitiative,2,Beschäftigung Arbeit,0.5,1
+2000,Nationalrat,239,Landwirtschaft,0.100418410041841,24
+2000,Ständerat,33,Landwirtschaft,0.06060606060606061,2
+2000,Bundesrat,9,Landwirtschaft,0,0
+2000,Volksinitiative,5,Landwirtschaft,0,0
+2001,Nationalrat,1172,Landwirtschaft,0.05887372013651877,69
+2001,Ständerat,122,Landwirtschaft,0.07377049180327869,9
+2001,Bundesrat,70,Landwirtschaft,0.014285714285714285,1
+2001,Volksinitiative,5,Landwirtschaft,0,0
+2002,Nationalrat,1139,Landwirtschaft,0.05882352941176471,67
+2002,Ständerat,138,Landwirtschaft,0.057971014492753624,8
+2002,Bundesrat,82,Landwirtschaft,0.024390243902439025,2
+2003,Nationalrat,1054,Landwirtschaft,0.029411764705882356,31
+2003,Ständerat,115,Landwirtschaft,0.052173913043478265,6
+2003,Bundesrat,73,Landwirtschaft,0.0136986301369863,1
+2003,Volksinitiative,2,Landwirtschaft,0,0
+2004,Nationalrat,1249,Landwirtschaft,0.041633306645316254,52
+2004,Ständerat,123,Landwirtschaft,0.04878048780487805,6
+2004,Bundesrat,75,Landwirtschaft,0.026666666666666665,2
+2004,Volksinitiative,3,Landwirtschaft,0.33333333333333337,1
+2005,Nationalrat,1348,Landwirtschaft,0.039317507418397624,53
+2005,Ständerat,135,Landwirtschaft,0.022222222222222223,3
+2005,Bundesrat,74,Landwirtschaft,0.027027027027027025,2
+2005,Volksinitiative,3,Landwirtschaft,0,0
+2006,Nationalrat,1352,Landwirtschaft,0.031065088757396452,42
+2006,Ständerat,124,Landwirtschaft,0.04032258064516129,5
+2006,Bundesrat,91,Landwirtschaft,0.02197802197802198,2
+2006,Volksinitiative,6,Landwirtschaft,0,0
+2007,Nationalrat,1398,Landwirtschaft,0.034334763948497854,48
+2007,Ständerat,136,Landwirtschaft,0.04411764705882353,6
+2007,Bundesrat,82,Landwirtschaft,0.012195121951219513,1
+2007,Volksinitiative,4,Landwirtschaft,0.25,1
+2008,Nationalrat,1644,Landwirtschaft,0.05900243309002433,97
+2008,Ständerat,142,Landwirtschaft,0.02112676056338028,3
+2008,Bundesrat,60,Landwirtschaft,0,0
+2008,Volksinitiative,6,Landwirtschaft,0,0
+2009,Nationalrat,2104,Landwirtschaft,0.05275665399239544,111
+2009,Ständerat,201,Landwirtschaft,0.03482587064676617,7
+2009,Bundesrat,79,Landwirtschaft,0.025316455696202535,2
+2009,Volksinitiative,7,Landwirtschaft,0,0
+2010,Nationalrat,1873,Landwirtschaft,0.06300053390282968,118
+2010,Ständerat,184,Landwirtschaft,0.059782608695652176,11
+2010,Bundesrat,100,Landwirtschaft,0.02,2
+2010,Volksinitiative,6,Landwirtschaft,0,0
+2011,Nationalrat,1792,Landwirtschaft,0.04966517857142857,89
+2011,Ständerat,179,Landwirtschaft,0.0335195530726257,6
+2011,Bundesrat,61,Landwirtschaft,0.01639344262295082,1
+2011,Volksinitiative,3,Landwirtschaft,0,0
+2012,Nationalrat,1852,Landwirtschaft,0.058315334773218146,108
+2012,Ständerat,187,Landwirtschaft,0.026737967914438502,5
+2012,Bundesrat,84,Landwirtschaft,0.023809523809523808,2
+2012,Volksinitiative,10,Landwirtschaft,0,0
+2013,Nationalrat,1940,Landwirtschaft,0.04587628865979381,89
+2013,Ständerat,182,Landwirtschaft,0.027472527472527472,5
+2013,Bundesrat,86,Landwirtschaft,0.011627906976744186,1
+2013,Volksinitiative,11,Landwirtschaft,0,0
+2014,Nationalrat,1994,Landwirtschaft,0.05315947843530591,106
+2014,Ständerat,185,Landwirtschaft,0.032432432432432434,6
+2014,Bundesrat,84,Landwirtschaft,0.011904761904761904,1
+2014,Volksinitiative,7,Landwirtschaft,0,0
+2015,Nationalrat,1944,Landwirtschaft,0.06327160493827161,123
+2015,Ständerat,174,Landwirtschaft,0.040229885057471264,7
+2015,Bundesrat,71,Landwirtschaft,0,0
+2015,Volksinitiative,4,Landwirtschaft,0.5,2
+2016,Nationalrat,1811,Landwirtschaft,0.040309221424627284,73
+2016,Ständerat,171,Landwirtschaft,0.023391812865497075,4
+2016,Bundesrat,69,Landwirtschaft,0.057971014492753624,4
+2016,Volksinitiative,3,Landwirtschaft,0.33333333333333337,1
+2017,Nationalrat,2048,Landwirtschaft,0.0556640625,114
+2017,Ständerat,179,Landwirtschaft,0.0335195530726257,6
+2017,Bundesrat,60,Landwirtschaft,0.016666666666666666,1
+2017,Volksinitiative,7,Landwirtschaft,0.42857142857142855,3
+2018,Nationalrat,1127,Landwirtschaft,0.05323868677905945,60
+2018,Ständerat,82,Landwirtschaft,0.04878048780487805,4
+2018,Bundesrat,39,Landwirtschaft,0.025641025641025644,1
+2018,Volksinitiative,2,Landwirtschaft,0,0
+2000,Nationalrat,239,Finanzwesen,0.10878661087866108,26
+2000,Ständerat,33,Finanzwesen,0.2121212121212121,7
+2000,Bundesrat,9,Finanzwesen,0.2222222222222222,2
+2000,Volksinitiative,5,Finanzwesen,0.2,1
+2001,Nationalrat,1172,Finanzwesen,0.05375426621160409,63
+2001,Ständerat,122,Finanzwesen,0.05737704918032786,7
+2001,Bundesrat,70,Finanzwesen,0.14285714285714288,10
+2001,Volksinitiative,5,Finanzwesen,0.2,1
+2002,Nationalrat,1139,Finanzwesen,0.06672519754170325,76
+2002,Ständerat,138,Finanzwesen,0.10869565217391304,15
+2002,Bundesrat,82,Finanzwesen,0.23170731707317074,19
+2003,Nationalrat,1054,Finanzwesen,0.09013282732447818,95
+2003,Ständerat,115,Finanzwesen,0.12173913043478261,14
+2003,Bundesrat,73,Finanzwesen,0.1780821917808219,13
+2003,Volksinitiative,2,Finanzwesen,0.5,1
+2004,Nationalrat,1249,Finanzwesen,0.08807045636509207,110
+2004,Ständerat,123,Finanzwesen,0.14634146341463417,18
+2004,Bundesrat,75,Finanzwesen,0.1733333333333333,13
+2004,Volksinitiative,3,Finanzwesen,0,0
+2005,Nationalrat,1348,Finanzwesen,0.1016320474777448,137
+2005,Ständerat,135,Finanzwesen,0.16296296296296298,22
+2005,Bundesrat,74,Finanzwesen,0.14864864864864866,11
+2005,Volksinitiative,3,Finanzwesen,0,0
+2006,Nationalrat,1352,Finanzwesen,0.0665680473372781,90
+2006,Ständerat,124,Finanzwesen,0.08870967741935484,11
+2006,Bundesrat,91,Finanzwesen,0.21978021978021978,20
+2006,Volksinitiative,6,Finanzwesen,0,0
+2007,Nationalrat,1398,Finanzwesen,0.07582260371959942,106
+2007,Ständerat,136,Finanzwesen,0.10294117647058824,14
+2007,Bundesrat,82,Finanzwesen,0.13414634146341464,11
+2007,Volksinitiative,4,Finanzwesen,0,0
+2008,Nationalrat,1644,Finanzwesen,0.11678832116788321,192
+2008,Ständerat,142,Finanzwesen,0.176056338028169,25
+2008,Bundesrat,60,Finanzwesen,0.2333333333333333,14
+2008,Volksinitiative,6,Finanzwesen,0,0
+2009,Nationalrat,2104,Finanzwesen,0.11454372623574144,241
+2009,Ständerat,201,Finanzwesen,0.16417910447761194,33
+2009,Bundesrat,79,Finanzwesen,0.22784810126582278,18
+2009,Volksinitiative,7,Finanzwesen,0.14285714285714288,1
+2010,Nationalrat,1873,Finanzwesen,0.10517885744794447,197
+2010,Ständerat,184,Finanzwesen,0.1793478260869565,33
+2010,Bundesrat,100,Finanzwesen,0.37,37
+2010,Volksinitiative,6,Finanzwesen,0.16666666666666669,1
+2011,Nationalrat,1792,Finanzwesen,0.13392857142857142,240
+2011,Ständerat,179,Finanzwesen,0.1229050279329609,22
+2011,Bundesrat,61,Finanzwesen,0.4098360655737705,25
+2011,Volksinitiative,3,Finanzwesen,0,0
+2012,Nationalrat,1852,Finanzwesen,0.15496760259179265,287
+2012,Ständerat,187,Finanzwesen,0.1657754010695187,31
+2012,Bundesrat,84,Finanzwesen,0.2976190476190476,25
+2012,Volksinitiative,10,Finanzwesen,0.2,2
+2013,Nationalrat,1940,Finanzwesen,0.1324742268041237,257
+2013,Ständerat,182,Finanzwesen,0.13736263736263735,25
+2013,Bundesrat,86,Finanzwesen,0.22093023255813954,19
+2013,Volksinitiative,11,Finanzwesen,0.5454545454545454,6
+2014,Nationalrat,1994,Finanzwesen,0.12086258776328988,241
+2014,Ständerat,185,Finanzwesen,0.13513513513513514,25
+2014,Bundesrat,84,Finanzwesen,0.19047619047619047,16
+2014,Volksinitiative,7,Finanzwesen,0.14285714285714288,1
+2015,Nationalrat,1944,Finanzwesen,0.1522633744855967,296
+2015,Ständerat,174,Finanzwesen,0.21264367816091956,37
+2015,Bundesrat,71,Finanzwesen,0.15492957746478875,11
+2015,Volksinitiative,4,Finanzwesen,0.25,1
+2016,Nationalrat,1811,Finanzwesen,0.13638873550524572,247
+2016,Ständerat,171,Finanzwesen,0.11695906432748539,20
+2016,Bundesrat,69,Finanzwesen,0.2898550724637681,20
+2016,Volksinitiative,3,Finanzwesen,0.33333333333333337,1
+2017,Nationalrat,2048,Finanzwesen,0.17626953125,361
+2017,Ständerat,179,Finanzwesen,0.2011173184357542,36
+2017,Bundesrat,60,Finanzwesen,0.13333333333333333,8
+2017,Volksinitiative,7,Finanzwesen,0,0
+2018,Nationalrat,1127,Finanzwesen,0.21384205856255545,241
+2018,Ständerat,82,Finanzwesen,0.1951219512195122,16
+2018,Bundesrat,39,Finanzwesen,0.15384615384615385,6
+2018,Volksinitiative,2,Finanzwesen,0.5,1
+2000,Nationalrat,239,Steuer,NA,NA
+2000,Ständerat,33,Steuer,NA,NA
+2000,Bundesrat,9,Steuer,NA,NA
+2000,Volksinitiative,5,Steuer,NA,NA
+2001,Nationalrat,1172,Steuer,NA,NA
+2001,Ständerat,122,Steuer,NA,NA
+2001,Bundesrat,70,Steuer,NA,NA
+2001,Volksinitiative,5,Steuer,NA,NA
+2002,Nationalrat,1139,Steuer,NA,NA
+2002,Ständerat,138,Steuer,NA,NA
+2002,Bundesrat,82,Steuer,NA,NA
+2003,Nationalrat,1054,Steuer,NA,NA
+2003,Ständerat,115,Steuer,NA,NA
+2003,Bundesrat,73,Steuer,NA,NA
+2003,Volksinitiative,2,Steuer,NA,NA
+2004,Nationalrat,1249,Steuer,NA,NA
+2004,Ständerat,123,Steuer,NA,NA
+2004,Bundesrat,75,Steuer,NA,NA
+2004,Volksinitiative,3,Steuer,NA,NA
+2005,Nationalrat,1348,Steuer,NA,NA
+2005,Ständerat,135,Steuer,NA,NA
+2005,Bundesrat,74,Steuer,NA,NA
+2005,Volksinitiative,3,Steuer,NA,NA
+2006,Nationalrat,1352,Steuer,NA,NA
+2006,Ständerat,124,Steuer,NA,NA
+2006,Bundesrat,91,Steuer,NA,NA
+2006,Volksinitiative,6,Steuer,NA,NA
+2007,Nationalrat,1398,Steuer,NA,NA
+2007,Ständerat,136,Steuer,NA,NA
+2007,Bundesrat,82,Steuer,NA,NA
+2007,Volksinitiative,4,Steuer,NA,NA
+2008,Nationalrat,1644,Steuer,NA,NA
+2008,Ständerat,142,Steuer,NA,NA
+2008,Bundesrat,60,Steuer,NA,NA
+2008,Volksinitiative,6,Steuer,NA,NA
+2009,Nationalrat,2104,Steuer,NA,NA
+2009,Ständerat,201,Steuer,NA,NA
+2009,Bundesrat,79,Steuer,NA,NA
+2009,Volksinitiative,7,Steuer,NA,NA
+2010,Nationalrat,1873,Steuer,NA,NA
+2010,Ständerat,184,Steuer,NA,NA
+2010,Bundesrat,100,Steuer,NA,NA
+2010,Volksinitiative,6,Steuer,NA,NA
+2011,Nationalrat,1792,Steuer,NA,NA
+2011,Ständerat,179,Steuer,NA,NA
+2011,Bundesrat,61,Steuer,NA,NA
+2011,Volksinitiative,3,Steuer,NA,NA
+2012,Nationalrat,1852,Steuer,0.003779697624190065,7
+2012,Ständerat,187,Steuer,0,0
+2012,Bundesrat,84,Steuer,0,0
+2012,Volksinitiative,10,Steuer,0,0
+2013,Nationalrat,1940,Steuer,0.010309278350515462,20
+2013,Ständerat,182,Steuer,0,0
+2013,Bundesrat,86,Steuer,0,0
+2013,Volksinitiative,11,Steuer,0,0
+2014,Nationalrat,1994,Steuer,0.037612838515546636,75
+2014,Ständerat,185,Steuer,0.043243243243243246,8
+2014,Bundesrat,84,Steuer,0.09523809523809523,8
+2014,Volksinitiative,7,Steuer,0.14285714285714288,1
+2015,Nationalrat,1944,Steuer,0.07253086419753087,141
+2015,Ständerat,174,Steuer,0.040229885057471264,7
+2015,Bundesrat,71,Steuer,0.2112676056338028,15
+2015,Volksinitiative,4,Steuer,0.25,1
+2016,Nationalrat,1811,Steuer,0.08669243511871894,157
+2016,Ständerat,171,Steuer,0.04093567251461988,7
+2016,Bundesrat,69,Steuer,0.14492753623188406,10
+2016,Volksinitiative,3,Steuer,0.33333333333333337,1
+2017,Nationalrat,2048,Steuer,0.06982421875,143
+2017,Ständerat,179,Steuer,0.1005586592178771,18
+2017,Bundesrat,60,Steuer,0.11666666666666665,7
+2017,Volksinitiative,7,Steuer,0,0
+2018,Nationalrat,1127,Steuer,0.04525288376220053,51
+2018,Ständerat,82,Steuer,0.04878048780487805,4
+2018,Bundesrat,39,Steuer,0.23076923076923075,9
+2018,Volksinitiative,2,Steuer,0,0
+2000,Nationalrat,239,Soziale Fragen,0.1589958158995816,38
+2000,Ständerat,33,Soziale Fragen,0.06060606060606061,2
+2000,Bundesrat,9,Soziale Fragen,0,0
+2000,Volksinitiative,5,Soziale Fragen,0.2,1
+2001,Nationalrat,1172,Soziale Fragen,0.052901023890784986,62
+2001,Ständerat,122,Soziale Fragen,0.03278688524590164,4
+2001,Bundesrat,70,Soziale Fragen,0.11428571428571428,8
+2001,Volksinitiative,5,Soziale Fragen,0.2,1
+2002,Nationalrat,1139,Soziale Fragen,0.10711150131694469,122
+2002,Ständerat,138,Soziale Fragen,0.07246376811594203,10
+2002,Bundesrat,82,Soziale Fragen,0.024390243902439025,2
+2003,Nationalrat,1054,Soziale Fragen,0.12144212523719165,128
+2003,Ständerat,115,Soziale Fragen,0.10434782608695653,12
+2003,Bundesrat,73,Soziale Fragen,0.0684931506849315,5
+2003,Volksinitiative,2,Soziale Fragen,0,0
+2004,Nationalrat,1249,Soziale Fragen,0.10168134507606086,127
+2004,Ständerat,123,Soziale Fragen,0.08943089430894309,11
+2004,Bundesrat,75,Soziale Fragen,0.026666666666666665,2
+2004,Volksinitiative,3,Soziale Fragen,0.33333333333333337,1
+2005,Nationalrat,1348,Soziale Fragen,0.09272997032640949,125
+2005,Ständerat,135,Soziale Fragen,0.08148148148148149,11
+2005,Bundesrat,74,Soziale Fragen,0.12162162162162161,9
+2005,Volksinitiative,3,Soziale Fragen,0,0
+2006,Nationalrat,1352,Soziale Fragen,0.09541420118343195,129
+2006,Ständerat,124,Soziale Fragen,0.10483870967741936,13
+2006,Bundesrat,91,Soziale Fragen,0.06593406593406594,6
+2006,Volksinitiative,6,Soziale Fragen,0.16666666666666669,1
+2007,Nationalrat,1398,Soziale Fragen,0.10944206008583691,153
+2007,Ständerat,136,Soziale Fragen,0.11764705882352942,16
+2007,Bundesrat,82,Soziale Fragen,0.07317073170731708,6
+2007,Volksinitiative,4,Soziale Fragen,0,0
+2008,Nationalrat,1644,Soziale Fragen,0.09124087591240876,150
+2008,Ständerat,142,Soziale Fragen,0.11267605633802816,16
+2008,Bundesrat,60,Soziale Fragen,0.05,3
+2008,Volksinitiative,6,Soziale Fragen,0,0
+2009,Nationalrat,2104,Soziale Fragen,0.0879277566539924,185
+2009,Ständerat,201,Soziale Fragen,0.09950248756218905,20
+2009,Bundesrat,79,Soziale Fragen,0.06329113924050633,5
+2009,Volksinitiative,7,Soziale Fragen,0,0
+2010,Nationalrat,1873,Soziale Fragen,0.10304324612920449,193
+2010,Ständerat,184,Soziale Fragen,0.07608695652173914,14
+2010,Bundesrat,100,Soziale Fragen,0.04,4
+2010,Volksinitiative,6,Soziale Fragen,0.16666666666666669,1
+2011,Nationalrat,1792,Soziale Fragen,0.07924107142857144,142
+2011,Ständerat,179,Soziale Fragen,0.09497206703910616,17
+2011,Bundesrat,61,Soziale Fragen,0.04918032786885246,3
+2011,Volksinitiative,3,Soziale Fragen,0,0
+2012,Nationalrat,1852,Soziale Fragen,0.08369330453563714,155
+2012,Ständerat,187,Soziale Fragen,0.0481283422459893,9
+2012,Bundesrat,84,Soziale Fragen,0.03571428571428572,3
+2012,Volksinitiative,10,Soziale Fragen,0.1,1
+2013,Nationalrat,1940,Soziale Fragen,0.10206185567010309,198
+2013,Ständerat,182,Soziale Fragen,0.13186813186813187,24
+2013,Bundesrat,86,Soziale Fragen,0.046511627906976744,4
+2013,Volksinitiative,11,Soziale Fragen,0.18181818181818182,2
+2014,Nationalrat,1994,Soziale Fragen,0.08826479438314944,176
+2014,Ständerat,185,Soziale Fragen,0.06486486486486487,12
+2014,Bundesrat,84,Soziale Fragen,0.08333333333333334,7
+2014,Volksinitiative,7,Soziale Fragen,0.14285714285714288,1
+2015,Nationalrat,1944,Soziale Fragen,0.09567901234567902,186
+2015,Ständerat,174,Soziale Fragen,0.05172413793103448,9
+2015,Bundesrat,71,Soziale Fragen,0,0
+2015,Volksinitiative,4,Soziale Fragen,0.25,1
+2016,Nationalrat,1811,Soziale Fragen,0.09387078961899503,170
+2016,Ständerat,171,Soziale Fragen,0.11695906432748539,20
+2016,Bundesrat,69,Soziale Fragen,0.057971014492753624,4
+2016,Volksinitiative,3,Soziale Fragen,0,0
+2017,Nationalrat,2048,Soziale Fragen,0.109375,224
+2017,Ständerat,179,Soziale Fragen,0.1005586592178771,18
+2017,Bundesrat,60,Soziale Fragen,0.06666666666666667,4
+2017,Volksinitiative,7,Soziale Fragen,0,0
+2018,Nationalrat,1127,Soziale Fragen,0.09937888198757763,112
+2018,Ständerat,82,Soziale Fragen,0.14634146341463417,12
+2018,Bundesrat,39,Soziale Fragen,0.10256410256410257,4
+2018,Volksinitiative,2,Soziale Fragen,0.5,1
+2000,Nationalrat,239,Migration,0.04184100418410042,10
+2000,Ständerat,33,Migration,0.030303030303030304,1
+2000,Bundesrat,9,Migration,0,0
+2000,Volksinitiative,5,Migration,0,0
+2001,Nationalrat,1172,Migration,0.07849829351535836,92
+2001,Ständerat,122,Migration,0.02459016393442623,3
+2001,Bundesrat,70,Migration,0.014285714285714285,1
+2001,Volksinitiative,5,Migration,0.2,1
+2002,Nationalrat,1139,Migration,0.03160667251975417,36
+2002,Ständerat,138,Migration,0.007246376811594203,1
+2002,Bundesrat,82,Migration,0.03658536585365854,3
+2003,Nationalrat,1054,Migration,0.044592030360531304,47
+2003,Ständerat,115,Migration,0.034782608695652174,4
+2003,Bundesrat,73,Migration,0.04109589041095891,3
+2003,Volksinitiative,2,Migration,0,0
+2004,Nationalrat,1249,Migration,0.04323458767013611,54
+2004,Ständerat,123,Migration,0.04065040650406505,5
+2004,Bundesrat,75,Migration,0.013333333333333332,1
+2004,Volksinitiative,3,Migration,0,0
+2005,Nationalrat,1348,Migration,0.040801186943620185,55
+2005,Ständerat,135,Migration,0.014814814814814814,2
+2005,Bundesrat,74,Migration,0,0
+2005,Volksinitiative,3,Migration,0,0
+2006,Nationalrat,1352,Migration,0.055473372781065095,75
+2006,Ständerat,124,Migration,0.016129032258064516,2
+2006,Bundesrat,91,Migration,0.03296703296703297,3
+2006,Volksinitiative,6,Migration,0.16666666666666669,1
+2007,Nationalrat,1398,Migration,0.02932761087267525,41
+2007,Ständerat,136,Migration,0.022058823529411766,3
+2007,Bundesrat,82,Migration,0.024390243902439025,2
+2007,Volksinitiative,4,Migration,0,0
+2008,Nationalrat,1644,Migration,0.05109489051094891,84
+2008,Ständerat,142,Migration,0.01408450704225352,2
+2008,Bundesrat,60,Migration,0.016666666666666666,1
+2008,Volksinitiative,6,Migration,0,0
+2009,Nationalrat,2104,Migration,0.05180608365019012,109
+2009,Ständerat,201,Migration,0.04477611940298507,9
+2009,Bundesrat,79,Migration,0.05063291139240507,4
+2009,Volksinitiative,7,Migration,0.14285714285714288,1
+2010,Nationalrat,1873,Migration,0.06780565936999466,127
+2010,Ständerat,184,Migration,0.010869565217391304,2
+2010,Bundesrat,100,Migration,0.03,3
+2010,Volksinitiative,6,Migration,0,0
+2011,Nationalrat,1792,Migration,0.08705357142857142,156
+2011,Ständerat,179,Migration,0.03910614525139665,7
+2011,Bundesrat,61,Migration,0.01639344262295082,1
+2011,Volksinitiative,3,Migration,0,0
+2012,Nationalrat,1852,Migration,0.05777537796976242,107
+2012,Ständerat,187,Migration,0.0160427807486631,3
+2012,Bundesrat,84,Migration,0.023809523809523808,2
+2012,Volksinitiative,10,Migration,0.1,1
+2013,Nationalrat,1940,Migration,0.04536082474226804,88
+2013,Ständerat,182,Migration,0.005494505494505495,1
+2013,Bundesrat,86,Migration,0.03488372093023256,3
+2013,Volksinitiative,11,Migration,0.18181818181818182,2
+2014,Nationalrat,1994,Migration,0.08776328986960882,175
+2014,Ständerat,185,Migration,0.03783783783783784,7
+2014,Bundesrat,84,Migration,0.08333333333333334,7
+2014,Volksinitiative,7,Migration,0,0
+2015,Nationalrat,1944,Migration,0.09773662551440329,190
+2015,Ständerat,174,Migration,0.08620689655172414,15
+2015,Bundesrat,71,Migration,0.01408450704225352,1
+2015,Volksinitiative,4,Migration,0,0
+2016,Nationalrat,1811,Migration,0.15461071231363888,280
+2016,Ständerat,171,Migration,0.08771929824561404,15
+2016,Bundesrat,69,Migration,0.028985507246376812,2
+2016,Volksinitiative,3,Migration,0,0
+2017,Nationalrat,2048,Migration,0.13232421875,271
+2017,Ständerat,179,Migration,0.08938547486033518,16
+2017,Bundesrat,60,Migration,0.03333333333333333,2
+2017,Volksinitiative,7,Migration,0.14285714285714288,1
+2018,Nationalrat,1127,Migration,0.09316770186335405,105
+2018,Ständerat,82,Migration,0.12195121951219512,10
+2018,Bundesrat,39,Migration,0.025641025641025644,1
+2018,Volksinitiative,2,Migration,0,0
+2000,Nationalrat,239,Sozialer Schutz,NA,NA
+2000,Ständerat,33,Sozialer Schutz,NA,NA
+2000,Bundesrat,9,Sozialer Schutz,NA,NA
+2000,Volksinitiative,5,Sozialer Schutz,NA,NA
+2001,Nationalrat,1172,Sozialer Schutz,NA,NA
+2001,Ständerat,122,Sozialer Schutz,NA,NA
+2001,Bundesrat,70,Sozialer Schutz,NA,NA
+2001,Volksinitiative,5,Sozialer Schutz,NA,NA
+2002,Nationalrat,1139,Sozialer Schutz,NA,NA
+2002,Ständerat,138,Sozialer Schutz,NA,NA
+2002,Bundesrat,82,Sozialer Schutz,NA,NA
+2003,Nationalrat,1054,Sozialer Schutz,NA,NA
+2003,Ständerat,115,Sozialer Schutz,NA,NA
+2003,Bundesrat,73,Sozialer Schutz,NA,NA
+2003,Volksinitiative,2,Sozialer Schutz,NA,NA
+2004,Nationalrat,1249,Sozialer Schutz,NA,NA
+2004,Ständerat,123,Sozialer Schutz,NA,NA
+2004,Bundesrat,75,Sozialer Schutz,NA,NA
+2004,Volksinitiative,3,Sozialer Schutz,NA,NA
+2005,Nationalrat,1348,Sozialer Schutz,NA,NA
+2005,Ständerat,135,Sozialer Schutz,NA,NA
+2005,Bundesrat,74,Sozialer Schutz,NA,NA
+2005,Volksinitiative,3,Sozialer Schutz,NA,NA
+2006,Nationalrat,1352,Sozialer Schutz,NA,NA
+2006,Ständerat,124,Sozialer Schutz,NA,NA
+2006,Bundesrat,91,Sozialer Schutz,NA,NA
+2006,Volksinitiative,6,Sozialer Schutz,NA,NA
+2007,Nationalrat,1398,Sozialer Schutz,NA,NA
+2007,Ständerat,136,Sozialer Schutz,NA,NA
+2007,Bundesrat,82,Sozialer Schutz,NA,NA
+2007,Volksinitiative,4,Sozialer Schutz,NA,NA
+2008,Nationalrat,1644,Sozialer Schutz,NA,NA
+2008,Ständerat,142,Sozialer Schutz,NA,NA
+2008,Bundesrat,60,Sozialer Schutz,NA,NA
+2008,Volksinitiative,6,Sozialer Schutz,NA,NA
+2009,Nationalrat,2104,Sozialer Schutz,NA,NA
+2009,Ständerat,201,Sozialer Schutz,NA,NA
+2009,Bundesrat,79,Sozialer Schutz,NA,NA
+2009,Volksinitiative,7,Sozialer Schutz,NA,NA
+2010,Nationalrat,1873,Sozialer Schutz,NA,NA
+2010,Ständerat,184,Sozialer Schutz,NA,NA
+2010,Bundesrat,100,Sozialer Schutz,NA,NA
+2010,Volksinitiative,6,Sozialer Schutz,NA,NA
+2011,Nationalrat,1792,Sozialer Schutz,NA,NA
+2011,Ständerat,179,Sozialer Schutz,NA,NA
+2011,Bundesrat,61,Sozialer Schutz,NA,NA
+2011,Volksinitiative,3,Sozialer Schutz,NA,NA
+2012,Nationalrat,1852,Sozialer Schutz,0.003779697624190065,7
+2012,Ständerat,187,Sozialer Schutz,0,0
+2012,Bundesrat,84,Sozialer Schutz,0,0
+2012,Volksinitiative,10,Sozialer Schutz,0,0
+2013,Nationalrat,1940,Sozialer Schutz,0.008762886597938144,17
+2013,Ständerat,182,Sozialer Schutz,0,0
+2013,Bundesrat,86,Sozialer Schutz,0,0
+2013,Volksinitiative,11,Sozialer Schutz,0,0
+2014,Nationalrat,1994,Sozialer Schutz,0.034102306920762285,68
+2014,Ständerat,185,Sozialer Schutz,0.032432432432432434,6
+2014,Bundesrat,84,Sozialer Schutz,0.03571428571428572,3
+2014,Volksinitiative,7,Sozialer Schutz,0.14285714285714288,1
+2015,Nationalrat,1944,Sozialer Schutz,0.03909465020576132,76
+2015,Ständerat,174,Sozialer Schutz,0.08620689655172414,15
+2015,Bundesrat,71,Sozialer Schutz,0.02816901408450704,2
+2015,Volksinitiative,4,Sozialer Schutz,0,0
+2016,Nationalrat,1811,Sozialer Schutz,0.05577029265599116,101
+2016,Ständerat,171,Sozialer Schutz,0.07017543859649122,12
+2016,Bundesrat,69,Sozialer Schutz,0.028985507246376812,2
+2016,Volksinitiative,3,Sozialer Schutz,0,0
+2017,Nationalrat,2048,Sozialer Schutz,0.05810546875,119
+2017,Ständerat,179,Sozialer Schutz,0.10614525139664804,19
+2017,Bundesrat,60,Sozialer Schutz,0.016666666666666666,1
+2017,Volksinitiative,7,Sozialer Schutz,0,0
+2018,Nationalrat,1127,Sozialer Schutz,0.05678793256433008,64
+2018,Ständerat,82,Sozialer Schutz,0.03658536585365854,3
+2018,Bundesrat,39,Sozialer Schutz,0.07692307692307693,3
+2018,Volksinitiative,2,Sozialer Schutz,0,0
+2000,Nationalrat,239,Gesundheit,0.10460251046025106,25
+2000,Ständerat,33,Gesundheit,0.09090909090909091,3
+2000,Bundesrat,9,Gesundheit,0,0
+2000,Volksinitiative,5,Gesundheit,0.2,1
+2001,Nationalrat,1172,Gesundheit,0.08191126279863481,96
+2001,Ständerat,122,Gesundheit,0.040983606557377046,5
+2001,Bundesrat,70,Gesundheit,0.02857142857142857,2
+2001,Volksinitiative,5,Gesundheit,0,0
+2002,Nationalrat,1139,Gesundheit,0.1202809482001756,137
+2002,Ständerat,138,Gesundheit,0.10144927536231885,14
+2002,Bundesrat,82,Gesundheit,0.024390243902439025,2
+2003,Nationalrat,1054,Gesundheit,0.08823529411764706,93
+2003,Ständerat,115,Gesundheit,0.10434782608695653,12
+2003,Bundesrat,73,Gesundheit,0.0273972602739726,2
+2003,Volksinitiative,2,Gesundheit,0,0
+2004,Nationalrat,1249,Gesundheit,0.08807045636509207,110
+2004,Ständerat,123,Gesundheit,0.05691056910569106,7
+2004,Bundesrat,75,Gesundheit,0.12,9
+2004,Volksinitiative,3,Gesundheit,0,0
+2005,Nationalrat,1348,Gesundheit,0.10830860534124628,146
+2005,Ständerat,135,Gesundheit,0.08888888888888889,12
+2005,Bundesrat,74,Gesundheit,0.027027027027027025,2
+2005,Volksinitiative,3,Gesundheit,0.6666666666666667,2
+2006,Nationalrat,1352,Gesundheit,0.09467455621301775,128
+2006,Ständerat,124,Gesundheit,0.10483870967741936,13
+2006,Bundesrat,91,Gesundheit,0.01098901098901099,1
+2006,Volksinitiative,6,Gesundheit,0.33333333333333337,2
+2007,Nationalrat,1398,Gesundheit,0.11373390557939914,159
+2007,Ständerat,136,Gesundheit,0.18382352941176472,25
+2007,Bundesrat,82,Gesundheit,0.04878048780487805,4
+2007,Volksinitiative,4,Gesundheit,0,0
+2008,Nationalrat,1644,Gesundheit,0.09914841849148419,163
+2008,Ständerat,142,Gesundheit,0.16197183098591547,23
+2008,Bundesrat,60,Gesundheit,0.016666666666666666,1
+2008,Volksinitiative,6,Gesundheit,0,0
+2009,Nationalrat,2104,Gesundheit,0.11787072243346008,248
+2009,Ständerat,201,Gesundheit,0.12935323383084577,26
+2009,Bundesrat,79,Gesundheit,0.05063291139240507,4
+2009,Volksinitiative,7,Gesundheit,0,0
+2010,Nationalrat,1873,Gesundheit,0.11478910838227442,215
+2010,Ständerat,184,Gesundheit,0.125,23
+2010,Bundesrat,100,Gesundheit,0.02,2
+2010,Volksinitiative,6,Gesundheit,0,0
+2011,Nationalrat,1792,Gesundheit,0.10212053571428571,183
+2011,Ständerat,179,Gesundheit,0.08938547486033518,16
+2011,Bundesrat,61,Gesundheit,0.01639344262295082,1
+2011,Volksinitiative,3,Gesundheit,0.6666666666666667,2
+2012,Nationalrat,1852,Gesundheit,0.15064794816414687,279
+2012,Ständerat,187,Gesundheit,0.13368983957219252,25
+2012,Bundesrat,84,Gesundheit,0.07142857142857144,6
+2012,Volksinitiative,10,Gesundheit,0.1,1
+2013,Nationalrat,1940,Gesundheit,0.10515463917525773,204
+2013,Ständerat,182,Gesundheit,0.11538461538461538,21
+2013,Bundesrat,86,Gesundheit,0.05813953488372093,5
+2013,Volksinitiative,11,Gesundheit,0.09090909090909091,1
+2014,Nationalrat,1994,Gesundheit,0.137913741223671,275
+2014,Ständerat,185,Gesundheit,0.12432432432432432,23
+2014,Bundesrat,84,Gesundheit,0.011904761904761904,1
+2014,Volksinitiative,7,Gesundheit,0.14285714285714288,1
+2015,Nationalrat,1944,Gesundheit,0.125,243
+2015,Ständerat,174,Gesundheit,0.10344827586206896,18
+2015,Bundesrat,71,Gesundheit,0.11267605633802816,8
+2015,Volksinitiative,4,Gesundheit,0,0
+2016,Nationalrat,1811,Gesundheit,0.11209276642738818,203
+2016,Ständerat,171,Gesundheit,0.14619883040935672,25
+2016,Bundesrat,69,Gesundheit,0.043478260869565216,3
+2016,Volksinitiative,3,Gesundheit,0.33333333333333337,1
+2017,Nationalrat,2048,Gesundheit,0.14208984375,291
+2017,Ständerat,179,Gesundheit,0.1340782122905028,24
+2017,Bundesrat,60,Gesundheit,0.05,3
+2017,Volksinitiative,7,Gesundheit,0,0
+2018,Nationalrat,1127,Gesundheit,0.19875776397515527,224
+2018,Ständerat,82,Gesundheit,0.15853658536585366,13
+2018,Bundesrat,39,Gesundheit,0.05128205128205129,2
+2018,Volksinitiative,2,Gesundheit,0,0
+2000,Nationalrat,239,Raumplanung Wohnungswesen,0.016736401673640166,4
+2000,Ständerat,33,Raumplanung Wohnungswesen,0.030303030303030304,1
+2000,Bundesrat,9,Raumplanung Wohnungswesen,0,0
+2000,Volksinitiative,5,Raumplanung Wohnungswesen,0,0
+2001,Nationalrat,1172,Raumplanung Wohnungswesen,0.010238907849829351,12
+2001,Ständerat,122,Raumplanung Wohnungswesen,0.00819672131147541,1
+2001,Bundesrat,70,Raumplanung Wohnungswesen,0.014285714285714285,1
+2001,Volksinitiative,5,Raumplanung Wohnungswesen,0,0
+2002,Nationalrat,1139,Raumplanung Wohnungswesen,0.016681299385425813,19
+2002,Ständerat,138,Raumplanung Wohnungswesen,0.014492753623188406,2
+2002,Bundesrat,82,Raumplanung Wohnungswesen,0.012195121951219513,1
+2003,Nationalrat,1054,Raumplanung Wohnungswesen,0.009487666034155597,10
+2003,Ständerat,115,Raumplanung Wohnungswesen,0.026086956521739132,3
+2003,Bundesrat,73,Raumplanung Wohnungswesen,0.0136986301369863,1
+2003,Volksinitiative,2,Raumplanung Wohnungswesen,0,0
+2004,Nationalrat,1249,Raumplanung Wohnungswesen,0.028823058446757407,36
+2004,Ständerat,123,Raumplanung Wohnungswesen,0.016260162601626015,2
+2004,Bundesrat,75,Raumplanung Wohnungswesen,0,0
+2004,Volksinitiative,3,Raumplanung Wohnungswesen,0,0
+2005,Nationalrat,1348,Raumplanung Wohnungswesen,0.017804154302670624,24
+2005,Ständerat,135,Raumplanung Wohnungswesen,0.014814814814814814,2
+2005,Bundesrat,74,Raumplanung Wohnungswesen,0.013513513513513513,1
+2005,Volksinitiative,3,Raumplanung Wohnungswesen,0,0
+2006,Nationalrat,1352,Raumplanung Wohnungswesen,0.01331360946745562,18
+2006,Ständerat,124,Raumplanung Wohnungswesen,0.008064516129032258,1
+2006,Bundesrat,91,Raumplanung Wohnungswesen,0.01098901098901099,1
+2006,Volksinitiative,6,Raumplanung Wohnungswesen,0,0
+2007,Nationalrat,1398,Raumplanung Wohnungswesen,0.013590844062947067,19
+2007,Ständerat,136,Raumplanung Wohnungswesen,0.007352941176470589,1
+2007,Bundesrat,82,Raumplanung Wohnungswesen,0.024390243902439025,2
+2007,Volksinitiative,4,Raumplanung Wohnungswesen,0.25,1
+2008,Nationalrat,1644,Raumplanung Wohnungswesen,0.022506082725060828,37
+2008,Ständerat,142,Raumplanung Wohnungswesen,0.02112676056338028,3
+2008,Bundesrat,60,Raumplanung Wohnungswesen,0.016666666666666666,1
+2008,Volksinitiative,6,Raumplanung Wohnungswesen,0.33333333333333337,2
+2009,Nationalrat,2104,Raumplanung Wohnungswesen,0.01473384030418251,31
+2009,Ständerat,201,Raumplanung Wohnungswesen,0.02487562189054726,5
+2009,Bundesrat,79,Raumplanung Wohnungswesen,0,0
+2009,Volksinitiative,7,Raumplanung Wohnungswesen,0.14285714285714288,1
+2010,Nationalrat,1873,Raumplanung Wohnungswesen,0.013347570742124932,25
+2010,Ständerat,184,Raumplanung Wohnungswesen,0.021739130434782608,4
+2010,Bundesrat,100,Raumplanung Wohnungswesen,0.02,2
+2010,Volksinitiative,6,Raumplanung Wohnungswesen,0.33333333333333337,2
+2011,Nationalrat,1792,Raumplanung Wohnungswesen,0.025669642857142856,46
+2011,Ständerat,179,Raumplanung Wohnungswesen,0.022346368715083796,4
+2011,Bundesrat,61,Raumplanung Wohnungswesen,0,0
+2011,Volksinitiative,3,Raumplanung Wohnungswesen,0,0
+2012,Nationalrat,1852,Raumplanung Wohnungswesen,0.03401727861771058,63
+2012,Ständerat,187,Raumplanung Wohnungswesen,0.026737967914438502,5
+2012,Bundesrat,84,Raumplanung Wohnungswesen,0,0
+2012,Volksinitiative,10,Raumplanung Wohnungswesen,0,0
+2013,Nationalrat,1940,Raumplanung Wohnungswesen,0.029896907216494847,58
+2013,Ständerat,182,Raumplanung Wohnungswesen,0.01098901098901099,2
+2013,Bundesrat,86,Raumplanung Wohnungswesen,0,0
+2013,Volksinitiative,11,Raumplanung Wohnungswesen,0,0
+2014,Nationalrat,1994,Raumplanung Wohnungswesen,0.03259779338014042,65
+2014,Ständerat,185,Raumplanung Wohnungswesen,0.032432432432432434,6
+2014,Bundesrat,84,Raumplanung Wohnungswesen,0.023809523809523808,2
+2014,Volksinitiative,7,Raumplanung Wohnungswesen,0,0
+2015,Nationalrat,1944,Raumplanung Wohnungswesen,0.02726337448559671,53
+2015,Ständerat,174,Raumplanung Wohnungswesen,0.028735632183908046,5
+2015,Bundesrat,71,Raumplanung Wohnungswesen,0.04225352112676056,3
+2015,Volksinitiative,4,Raumplanung Wohnungswesen,0.25,1
+2016,Nationalrat,1811,Raumplanung Wohnungswesen,0.02319160684704583,42
+2016,Ständerat,171,Raumplanung Wohnungswesen,0.07017543859649122,12
+2016,Bundesrat,69,Raumplanung Wohnungswesen,0.043478260869565216,3
+2016,Volksinitiative,3,Raumplanung Wohnungswesen,0,0
+2017,Nationalrat,2048,Raumplanung Wohnungswesen,0.03076171875,63
+2017,Ständerat,179,Raumplanung Wohnungswesen,0.05027932960893855,9
+2017,Bundesrat,60,Raumplanung Wohnungswesen,0.03333333333333333,2
+2017,Volksinitiative,7,Raumplanung Wohnungswesen,0.14285714285714288,1
+2018,Nationalrat,1127,Raumplanung Wohnungswesen,0.023070097604259095,26
+2018,Ständerat,82,Raumplanung Wohnungswesen,0.012195121951219513,1
+2018,Bundesrat,39,Raumplanung Wohnungswesen,0.05128205128205129,2
+2018,Volksinitiative,2,Raumplanung Wohnungswesen,0.5,1
+2000,Nationalrat,239,Kultur,0,0
+2000,Ständerat,33,Kultur,0,0
+2000,Bundesrat,9,Kultur,0,0
+2000,Volksinitiative,5,Kultur,0,0
+2001,Nationalrat,1172,Kultur,0.02986348122866894,35
+2001,Ständerat,122,Kultur,0.00819672131147541,1
+2001,Bundesrat,70,Kultur,0.04285714285714286,3
+2001,Volksinitiative,5,Kultur,0,0
+2002,Nationalrat,1139,Kultur,0.021071115013169446,24
+2002,Ständerat,138,Kultur,0.014492753623188406,2
+2002,Bundesrat,82,Kultur,0.024390243902439025,2
+2003,Nationalrat,1054,Kultur,0.018975332068311195,20
+2003,Ständerat,115,Kultur,0.008695652173913044,1
+2003,Bundesrat,73,Kultur,0.04109589041095891,3
+2003,Volksinitiative,2,Kultur,0,0
+2004,Nationalrat,1249,Kultur,0.024819855884707764,31
+2004,Ständerat,123,Kultur,0.016260162601626015,2
+2004,Bundesrat,75,Kultur,0,0
+2004,Volksinitiative,3,Kultur,0,0
+2005,Nationalrat,1348,Kultur,0.021513353115727,29
+2005,Ständerat,135,Kultur,0.007407407407407407,1
+2005,Bundesrat,74,Kultur,0.013513513513513513,1
+2005,Volksinitiative,3,Kultur,0,0
+2006,Nationalrat,1352,Kultur,0.019970414201183433,27
+2006,Ständerat,124,Kultur,0.016129032258064516,2
+2006,Bundesrat,91,Kultur,0.04395604395604396,4
+2006,Volksinitiative,6,Kultur,0,0
+2007,Nationalrat,1398,Kultur,0.011444921316165953,16
+2007,Ständerat,136,Kultur,0.007352941176470589,1
+2007,Bundesrat,82,Kultur,0.08536585365853659,7
+2007,Volksinitiative,4,Kultur,0,0
+2008,Nationalrat,1644,Kultur,0.01338199513381995,22
+2008,Ständerat,142,Kultur,0.00704225352112676,1
+2008,Bundesrat,60,Kultur,0,0
+2008,Volksinitiative,6,Kultur,0.16666666666666669,1
+2009,Nationalrat,2104,Kultur,0.02376425855513308,50
+2009,Ständerat,201,Kultur,0.02487562189054726,5
+2009,Bundesrat,79,Kultur,0.012658227848101267,1
+2009,Volksinitiative,7,Kultur,0.14285714285714288,1
+2010,Nationalrat,1873,Kultur,0.023491724506139882,44
+2010,Ständerat,184,Kultur,0.016304347826086956,3
+2010,Bundesrat,100,Kultur,0,0
+2010,Volksinitiative,6,Kultur,0,0
+2011,Nationalrat,1792,Kultur,0.012834821428571428,23
+2011,Ständerat,179,Kultur,0.027932960893854747,5
+2011,Bundesrat,61,Kultur,0.01639344262295082,1
+2011,Volksinitiative,3,Kultur,0,0
+2012,Nationalrat,1852,Kultur,0.02429805615550756,45
+2012,Ständerat,187,Kultur,0.021390374331550804,4
+2012,Bundesrat,84,Kultur,0.011904761904761904,1
+2012,Volksinitiative,10,Kultur,0,0
+2013,Nationalrat,1940,Kultur,0.029896907216494847,58
+2013,Ständerat,182,Kultur,0.049450549450549455,9
+2013,Bundesrat,86,Kultur,0.011627906976744186,1
+2013,Volksinitiative,11,Kultur,0,0
+2014,Nationalrat,1994,Kultur,0.03961885656970913,79
+2014,Ständerat,185,Kultur,0.07567567567567568,14
+2014,Bundesrat,84,Kultur,0.011904761904761904,1
+2014,Volksinitiative,7,Kultur,0,0
+2015,Nationalrat,1944,Kultur,0.03446502057613168,67
+2015,Ständerat,174,Kultur,0.05172413793103448,9
+2015,Bundesrat,71,Kultur,0,0
+2015,Volksinitiative,4,Kultur,0,0
+2016,Nationalrat,1811,Kultur,0.04583103257868581,83
+2016,Ständerat,171,Kultur,0.052631578947368425,9
+2016,Bundesrat,69,Kultur,0,0
+2016,Volksinitiative,3,Kultur,0,0
+2017,Nationalrat,2048,Kultur,0.03857421875,79
+2017,Ständerat,179,Kultur,0.04469273743016759,8
+2017,Bundesrat,60,Kultur,0.03333333333333333,2
+2017,Volksinitiative,7,Kultur,0,0
+2018,Nationalrat,1127,Kultur,0.043478260869565216,49
+2018,Ständerat,82,Kultur,0.024390243902439025,2
+2018,Bundesrat,39,Kultur,0,0
+2018,Volksinitiative,2,Kultur,0,0
+2000,Nationalrat,239,Bildung,0.058577405857740586,14
+2000,Ständerat,33,Bildung,0.06060606060606061,2
+2000,Bundesrat,9,Bildung,0,0
+2000,Volksinitiative,5,Bildung,0.2,1
+2001,Nationalrat,1172,Bildung,0.04607508532423208,54
+2001,Ständerat,122,Bildung,0.02459016393442623,3
+2001,Bundesrat,70,Bildung,0.02857142857142857,2
+2001,Volksinitiative,5,Bildung,0,0
+2002,Nationalrat,1139,Bildung,0.03424056189640035,39
+2002,Ständerat,138,Bildung,0.014492753623188406,2
+2002,Bundesrat,82,Bildung,0.024390243902439025,2
+2003,Nationalrat,1054,Bildung,0.031309297912713474,33
+2003,Ständerat,115,Bildung,0.043478260869565216,5
+2003,Bundesrat,73,Bildung,0.0547945205479452,4
+2003,Volksinitiative,2,Bildung,0,0
+2004,Nationalrat,1249,Bildung,0.04323458767013611,54
+2004,Ständerat,123,Bildung,0.03252032520325203,4
+2004,Bundesrat,75,Bildung,0.026666666666666665,2
+2004,Volksinitiative,3,Bildung,0,0
+2005,Nationalrat,1348,Bildung,0.039317507418397624,53
+2005,Ständerat,135,Bildung,0.07407407407407407,10
+2005,Bundesrat,74,Bildung,0,0
+2005,Volksinitiative,3,Bildung,0,0
+2006,Nationalrat,1352,Bildung,0.03550295857988166,48
+2006,Ständerat,124,Bildung,0.08064516129032258,10
+2006,Bundesrat,91,Bildung,0.01098901098901099,1
+2006,Volksinitiative,6,Bildung,0,0
+2007,Nationalrat,1398,Bildung,0.032904148783977114,46
+2007,Ständerat,136,Bildung,0.029411764705882356,4
+2007,Bundesrat,82,Bildung,0.012195121951219513,1
+2007,Volksinitiative,4,Bildung,0,0
+2008,Nationalrat,1644,Bildung,0.028588807785888078,47
+2008,Ständerat,142,Bildung,0.035211267605633804,5
+2008,Bundesrat,60,Bildung,0.016666666666666666,1
+2008,Volksinitiative,6,Bildung,0,0
+2009,Nationalrat,2104,Bildung,0.03184410646387833,67
+2009,Ständerat,201,Bildung,0.04975124378109452,10
+2009,Bundesrat,79,Bildung,0.0379746835443038,3
+2009,Volksinitiative,7,Bildung,0.14285714285714288,1
+2010,Nationalrat,1873,Bildung,0.03523758675920982,66
+2010,Ständerat,184,Bildung,0.02717391304347826,5
+2010,Bundesrat,100,Bildung,0.01,1
+2010,Volksinitiative,6,Bildung,0,0
+2011,Nationalrat,1792,Bildung,0.026785714285714284,48
+2011,Ständerat,179,Bildung,0.055865921787709494,10
+2011,Bundesrat,61,Bildung,0.01639344262295082,1
+2011,Volksinitiative,3,Bildung,0,0
+2012,Nationalrat,1852,Bildung,0.02861771058315335,53
+2012,Ständerat,187,Bildung,0.04278074866310161,8
+2012,Bundesrat,84,Bildung,0.03571428571428572,3
+2012,Volksinitiative,10,Bildung,0.1,1
+2013,Nationalrat,1940,Bildung,0.032989690721649485,64
+2013,Ständerat,182,Bildung,0.02197802197802198,4
+2013,Bundesrat,86,Bildung,0.08139534883720931,7
+2013,Volksinitiative,11,Bildung,0,0
+2014,Nationalrat,1994,Bildung,0.058676028084252756,117
+2014,Ständerat,185,Bildung,0.05405405405405405,10
+2014,Bundesrat,84,Bildung,0,0
+2014,Volksinitiative,7,Bildung,0.14285714285714288,1
+2015,Nationalrat,1944,Bildung,0.04423868312757202,86
+2015,Ständerat,174,Bildung,0.034482758620689655,6
+2015,Bundesrat,71,Bildung,0.01408450704225352,1
+2015,Volksinitiative,4,Bildung,0,0
+2016,Nationalrat,1811,Bildung,0.04914411927112093,89
+2016,Ständerat,171,Bildung,0.03508771929824561,6
+2016,Bundesrat,69,Bildung,0.014492753623188406,1
+2016,Volksinitiative,3,Bildung,0,0
+2017,Nationalrat,2048,Bildung,0.044921875,92
+2017,Ständerat,179,Bildung,0.04469273743016759,8
+2017,Bundesrat,60,Bildung,0.016666666666666666,1
+2017,Volksinitiative,7,Bildung,0,0
+2018,Nationalrat,1127,Bildung,0.049689440993788817,56
+2018,Ständerat,82,Bildung,0.06097560975609756,5
+2018,Bundesrat,39,Bildung,0,0
+2018,Volksinitiative,2,Bildung,0,0
+2000,Nationalrat,239,Wissenschaft Forschung,0.029288702928870293,7
+2000,Ständerat,33,Wissenschaft Forschung,0,0
+2000,Bundesrat,9,Wissenschaft Forschung,0,0
+2000,Volksinitiative,5,Wissenschaft Forschung,0,0
+2001,Nationalrat,1172,Wissenschaft Forschung,0.031569965870307165,37
+2001,Ständerat,122,Wissenschaft Forschung,0.03278688524590164,4
+2001,Bundesrat,70,Wissenschaft Forschung,0.014285714285714285,1
+2001,Volksinitiative,5,Wissenschaft Forschung,0,0
+2002,Nationalrat,1139,Wissenschaft Forschung,0.015803336259877086,18
+2002,Ständerat,138,Wissenschaft Forschung,0.028985507246376812,4
+2002,Bundesrat,82,Wissenschaft Forschung,0.03658536585365854,3
+2003,Nationalrat,1054,Wissenschaft Forschung,0.013282732447817837,14
+2003,Ständerat,115,Wissenschaft Forschung,0.017391304347826087,2
+2003,Bundesrat,73,Wissenschaft Forschung,0.0136986301369863,1
+2003,Volksinitiative,2,Wissenschaft Forschung,0,0
+2004,Nationalrat,1249,Wissenschaft Forschung,0.017614091273018415,22
+2004,Ständerat,123,Wissenschaft Forschung,0.008130081300813007,1
+2004,Bundesrat,75,Wissenschaft Forschung,0,0
+2004,Volksinitiative,3,Wissenschaft Forschung,0,0
+2005,Nationalrat,1348,Wissenschaft Forschung,0.014836795252225518,20
+2005,Ständerat,135,Wissenschaft Forschung,0.029629629629629627,4
+2005,Bundesrat,74,Wissenschaft Forschung,0.027027027027027025,2
+2005,Volksinitiative,3,Wissenschaft Forschung,0,0
+2006,Nationalrat,1352,Wissenschaft Forschung,0.025147928994082844,34
+2006,Ständerat,124,Wissenschaft Forschung,0.04032258064516129,5
+2006,Bundesrat,91,Wissenschaft Forschung,0.01098901098901099,1
+2006,Volksinitiative,6,Wissenschaft Forschung,0,0
+2007,Nationalrat,1398,Wissenschaft Forschung,0.012160228898426323,17
+2007,Ständerat,136,Wissenschaft Forschung,0.014705882352941178,2
+2007,Bundesrat,82,Wissenschaft Forschung,0.024390243902439025,2
+2007,Volksinitiative,4,Wissenschaft Forschung,0,0
+2008,Nationalrat,1644,Wissenschaft Forschung,0.012773722627737228,21
+2008,Ständerat,142,Wissenschaft Forschung,0.02816901408450704,4
+2008,Bundesrat,60,Wissenschaft Forschung,0.03333333333333333,2
+2008,Volksinitiative,6,Wissenschaft Forschung,0,0
+2009,Nationalrat,2104,Wissenschaft Forschung,0.009030418250950571,19
+2009,Ständerat,201,Wissenschaft Forschung,0.01990049751243781,4
+2009,Bundesrat,79,Wissenschaft Forschung,0.012658227848101267,1
+2009,Volksinitiative,7,Wissenschaft Forschung,0,0
+2010,Nationalrat,1873,Wissenschaft Forschung,0.014415376401494928,27
+2010,Ständerat,184,Wissenschaft Forschung,0.03260869565217391,6
+2010,Bundesrat,100,Wissenschaft Forschung,0.02,2
+2010,Volksinitiative,6,Wissenschaft Forschung,0,0
+2011,Nationalrat,1792,Wissenschaft Forschung,0.010044642857142858,18
+2011,Ständerat,179,Wissenschaft Forschung,0.055865921787709494,10
+2011,Bundesrat,61,Wissenschaft Forschung,0.01639344262295082,1
+2011,Volksinitiative,3,Wissenschaft Forschung,0,0
+2012,Nationalrat,1852,Wissenschaft Forschung,0.010259179265658747,19
+2012,Ständerat,187,Wissenschaft Forschung,0.010695187165775402,2
+2012,Bundesrat,84,Wissenschaft Forschung,0.011904761904761904,1
+2012,Volksinitiative,10,Wissenschaft Forschung,0,0
+2013,Nationalrat,1940,Wissenschaft Forschung,0.017010309278350514,33
+2013,Ständerat,182,Wissenschaft Forschung,0.005494505494505495,1
+2013,Bundesrat,86,Wissenschaft Forschung,0.023255813953488372,2
+2013,Volksinitiative,11,Wissenschaft Forschung,0,0
+2014,Nationalrat,1994,Wissenschaft Forschung,0.031093279839518553,62
+2014,Ständerat,185,Wissenschaft Forschung,0.021621621621621623,4
+2014,Bundesrat,84,Wissenschaft Forschung,0.023809523809523808,2
+2014,Volksinitiative,7,Wissenschaft Forschung,0,0
+2015,Nationalrat,1944,Wissenschaft Forschung,0.021090534979423866,41
+2015,Ständerat,174,Wissenschaft Forschung,0.017241379310344827,3
+2015,Bundesrat,71,Wissenschaft Forschung,0.04225352112676056,3
+2015,Volksinitiative,4,Wissenschaft Forschung,0,0
+2016,Nationalrat,1811,Wissenschaft Forschung,0.027609055770292653,50
+2016,Ständerat,171,Wissenschaft Forschung,0.017543859649122806,3
+2016,Bundesrat,69,Wissenschaft Forschung,0.028985507246376812,2
+2016,Volksinitiative,3,Wissenschaft Forschung,0,0
+2017,Nationalrat,2048,Wissenschaft Forschung,0.03515625,72
+2017,Ständerat,179,Wissenschaft Forschung,0.01675977653631285,3
+2017,Bundesrat,60,Wissenschaft Forschung,0.016666666666666666,1
+2017,Volksinitiative,7,Wissenschaft Forschung,0,0
+2018,Nationalrat,1127,Wissenschaft Forschung,0.026619343389529725,30
+2018,Ständerat,82,Wissenschaft Forschung,0.06097560975609756,5
+2018,Bundesrat,39,Wissenschaft Forschung,0,0
+2018,Volksinitiative,2,Wissenschaft Forschung,0,0
+2000,Nationalrat,239,Medien Kommunikation,0.09623430962343096,23
+2000,Ständerat,33,Medien Kommunikation,0.09090909090909091,3
+2000,Bundesrat,9,Medien Kommunikation,0,0
+2000,Volksinitiative,5,Medien Kommunikation,0,0
+2001,Nationalrat,1172,Medien Kommunikation,0.04778156996587031,56
+2001,Ständerat,122,Medien Kommunikation,0.08196721311475409,10
+2001,Bundesrat,70,Medien Kommunikation,0,0
+2001,Volksinitiative,5,Medien Kommunikation,0,0
+2002,Nationalrat,1139,Medien Kommunikation,0.056189640035118525,64
+2002,Ständerat,138,Medien Kommunikation,0.057971014492753624,8
+2002,Bundesrat,82,Medien Kommunikation,0.024390243902439025,2
+2003,Nationalrat,1054,Medien Kommunikation,0.03700189753320683,39
+2003,Ständerat,115,Medien Kommunikation,0.034782608695652174,4
+2003,Bundesrat,73,Medien Kommunikation,0.04109589041095891,3
+2003,Volksinitiative,2,Medien Kommunikation,0.5,1
+2004,Nationalrat,1249,Medien Kommunikation,0.04643714971977582,58
+2004,Ständerat,123,Medien Kommunikation,0.04878048780487805,6
+2004,Bundesrat,75,Medien Kommunikation,0.026666666666666665,2
+2004,Volksinitiative,3,Medien Kommunikation,0,0
+2005,Nationalrat,1348,Medien Kommunikation,0.043026706231454,58
+2005,Ständerat,135,Medien Kommunikation,0.037037037037037035,5
+2005,Bundesrat,74,Medien Kommunikation,0,0
+2005,Volksinitiative,3,Medien Kommunikation,0,0
+2006,Nationalrat,1352,Medien Kommunikation,0.040680473372781065,55
+2006,Ständerat,124,Medien Kommunikation,0.07258064516129031,9
+2006,Bundesrat,91,Medien Kommunikation,0.02197802197802198,2
+2006,Volksinitiative,6,Medien Kommunikation,0,0
+2007,Nationalrat,1398,Medien Kommunikation,0.04434907010014306,62
+2007,Ständerat,136,Medien Kommunikation,0.03676470588235294,5
+2007,Bundesrat,82,Medien Kommunikation,0.012195121951219513,1
+2007,Volksinitiative,4,Medien Kommunikation,0,0
+2008,Nationalrat,1644,Medien Kommunikation,0.03102189781021898,51
+2008,Ständerat,142,Medien Kommunikation,0.035211267605633804,5
+2008,Bundesrat,60,Medien Kommunikation,0,0
+2008,Volksinitiative,6,Medien Kommunikation,0,0
+2009,Nationalrat,2104,Medien Kommunikation,0.054657794676806086,115
+2009,Ständerat,201,Medien Kommunikation,0.06467661691542288,13
+2009,Bundesrat,79,Medien Kommunikation,0.025316455696202535,2
+2009,Volksinitiative,7,Medien Kommunikation,0,0
+2010,Nationalrat,1873,Medien Kommunikation,0.06940736785904965,130
+2010,Ständerat,184,Medien Kommunikation,0.07608695652173914,14
+2010,Bundesrat,100,Medien Kommunikation,0.02,2
+2010,Volksinitiative,6,Medien Kommunikation,0,0
+2011,Nationalrat,1792,Medien Kommunikation,0.0390625,70
+2011,Ständerat,179,Medien Kommunikation,0.04469273743016759,8
+2011,Bundesrat,61,Medien Kommunikation,0.01639344262295082,1
+2011,Volksinitiative,3,Medien Kommunikation,0.33333333333333337,1
+2012,Nationalrat,1852,Medien Kommunikation,0.038876889848812095,72
+2012,Ständerat,187,Medien Kommunikation,0.06951871657754011,13
+2012,Bundesrat,84,Medien Kommunikation,0,0
+2012,Volksinitiative,10,Medien Kommunikation,0,0
+2013,Nationalrat,1940,Medien Kommunikation,0.0634020618556701,123
+2013,Ständerat,182,Medien Kommunikation,0.054945054945054944,10
+2013,Bundesrat,86,Medien Kommunikation,0.023255813953488372,2
+2013,Volksinitiative,11,Medien Kommunikation,0,0
+2014,Nationalrat,1994,Medien Kommunikation,0.06068204613841525,121
+2014,Ständerat,185,Medien Kommunikation,0.07567567567567568,14
+2014,Bundesrat,84,Medien Kommunikation,0.023809523809523808,2
+2014,Volksinitiative,7,Medien Kommunikation,0,0
+2015,Nationalrat,1944,Medien Kommunikation,0.08641975308641975,168
+2015,Ständerat,174,Medien Kommunikation,0.11494252873563218,20
+2015,Bundesrat,71,Medien Kommunikation,0.02816901408450704,2
+2015,Volksinitiative,4,Medien Kommunikation,0,0
+2016,Nationalrat,1811,Medien Kommunikation,0.09718387631143015,176
+2016,Ständerat,171,Medien Kommunikation,0.0935672514619883,16
+2016,Bundesrat,69,Medien Kommunikation,0.07246376811594203,5
+2016,Volksinitiative,3,Medien Kommunikation,0.33333333333333337,1
+2017,Nationalrat,2048,Medien Kommunikation,0.12744140625,261
+2017,Ständerat,179,Medien Kommunikation,0.11731843575418993,21
+2017,Bundesrat,60,Medien Kommunikation,0.11666666666666665,7
+2017,Volksinitiative,7,Medien Kommunikation,0,0
+2018,Nationalrat,1127,Medien Kommunikation,0.18278615794143743,206
+2018,Ständerat,82,Medien Kommunikation,0.14634146341463417,12
+2018,Bundesrat,39,Medien Kommunikation,0.025641025641025644,1
+2018,Volksinitiative,2,Medien Kommunikation,0,0
+2000,Nationalrat,239,Verkehr,0.08368200836820083,20
+2000,Ständerat,33,Verkehr,0,0
+2000,Bundesrat,9,Verkehr,0.2222222222222222,2
+2000,Volksinitiative,5,Verkehr,0,0
+2001,Nationalrat,1172,Verkehr,0.1672354948805461,196
+2001,Ständerat,122,Verkehr,0.23770491803278687,29
+2001,Bundesrat,70,Verkehr,0.04285714285714286,3
+2001,Volksinitiative,5,Verkehr,0,0
+2002,Nationalrat,1139,Verkehr,0.1106233538191396,126
+2002,Ständerat,138,Verkehr,0.18115942028985507,25
+2002,Bundesrat,82,Verkehr,0.07317073170731708,6
+2003,Nationalrat,1054,Verkehr,0.127134724857685,134
+2003,Ständerat,115,Verkehr,0.12173913043478261,14
+2003,Bundesrat,73,Verkehr,0.0684931506849315,5
+2003,Volksinitiative,2,Verkehr,0,0
+2004,Nationalrat,1249,Verkehr,0.1257005604483587,157
+2004,Ständerat,123,Verkehr,0.1056910569105691,13
+2004,Bundesrat,75,Verkehr,0.12,9
+2004,Volksinitiative,3,Verkehr,0,0
+2005,Nationalrat,1348,Verkehr,0.09124629080118694,123
+2005,Ständerat,135,Verkehr,0.14074074074074075,19
+2005,Bundesrat,74,Verkehr,0.06756756756756757,5
+2005,Volksinitiative,3,Verkehr,0,0
+2006,Nationalrat,1352,Verkehr,0.10281065088757396,139
+2006,Ständerat,124,Verkehr,0.11290322580645162,14
+2006,Bundesrat,91,Verkehr,0.06593406593406594,6
+2006,Volksinitiative,6,Verkehr,0,0
+2007,Nationalrat,1398,Verkehr,0.11587982832618027,162
+2007,Ständerat,136,Verkehr,0.04411764705882353,6
+2007,Bundesrat,82,Verkehr,0.0975609756097561,8
+2007,Volksinitiative,4,Verkehr,0,0
+2008,Nationalrat,1644,Verkehr,0.12712895377128952,209
+2008,Ständerat,142,Verkehr,0.08450704225352113,12
+2008,Bundesrat,60,Verkehr,0.016666666666666666,1
+2008,Volksinitiative,6,Verkehr,0,0
+2009,Nationalrat,2104,Verkehr,0.0903041825095057,190
+2009,Ständerat,201,Verkehr,0.10945273631840796,22
+2009,Bundesrat,79,Verkehr,0.05063291139240507,4
+2009,Volksinitiative,7,Verkehr,0,0
+2010,Nationalrat,1873,Verkehr,0.09129738387613454,171
+2010,Ständerat,184,Verkehr,0.10869565217391304,20
+2010,Bundesrat,100,Verkehr,0.07,7
+2010,Volksinitiative,6,Verkehr,0.16666666666666669,1
+2011,Nationalrat,1792,Verkehr,0.07198660714285715,129
+2011,Ständerat,179,Verkehr,0.10614525139664804,19
+2011,Bundesrat,61,Verkehr,0.01639344262295082,1
+2011,Volksinitiative,3,Verkehr,0,0
+2012,Nationalrat,1852,Verkehr,0.0826133909287257,153
+2012,Ständerat,187,Verkehr,0.13368983957219252,25
+2012,Bundesrat,84,Verkehr,0.05952380952380953,5
+2012,Volksinitiative,10,Verkehr,0.1,1
+2013,Nationalrat,1940,Verkehr,0.088659793814433,172
+2013,Ständerat,182,Verkehr,0.12087912087912088,22
+2013,Bundesrat,86,Verkehr,0.08139534883720931,7
+2013,Volksinitiative,11,Verkehr,0,0
+2014,Nationalrat,1994,Verkehr,0.0962888665997994,192
+2014,Ständerat,185,Verkehr,0.12432432432432432,23
+2014,Bundesrat,84,Verkehr,0.05952380952380953,5
+2014,Volksinitiative,7,Verkehr,0.14285714285714288,1
+2015,Nationalrat,1944,Verkehr,0.1111111111111111,216
+2015,Ständerat,174,Verkehr,0.13218390804597702,23
+2015,Bundesrat,71,Verkehr,0.04225352112676056,3
+2015,Volksinitiative,4,Verkehr,0,0
+2016,Nationalrat,1811,Verkehr,0.1049144119271121,190
+2016,Ständerat,171,Verkehr,0.07602339181286549,13
+2016,Bundesrat,69,Verkehr,0.07246376811594203,5
+2016,Volksinitiative,3,Verkehr,0,0
+2017,Nationalrat,2048,Verkehr,0.09423828125,193
+2017,Ständerat,179,Verkehr,0.11173184357541899,20
+2017,Bundesrat,60,Verkehr,0.03333333333333333,2
+2017,Volksinitiative,7,Verkehr,0.14285714285714288,1
+2018,Nationalrat,1127,Verkehr,0.15173025732031944,171
+2018,Ständerat,82,Verkehr,0.10975609756097562,9
+2018,Bundesrat,39,Verkehr,0,0
+2018,Volksinitiative,2,Verkehr,0,0
+2000,Nationalrat,239,Umwelt,0.06276150627615062,15
+2000,Ständerat,33,Umwelt,0.09090909090909091,3
+2000,Bundesrat,9,Umwelt,0.2222222222222222,2
+2000,Volksinitiative,5,Umwelt,0,0
+2001,Nationalrat,1172,Umwelt,0.07167235494880546,84
+2001,Ständerat,122,Umwelt,0.08196721311475409,10
+2001,Bundesrat,70,Umwelt,0.02857142857142857,2
+2001,Volksinitiative,5,Umwelt,0.2,1
+2002,Nationalrat,1139,Umwelt,0.05179982440737489,59
+2002,Ständerat,138,Umwelt,0.050724637681159424,7
+2002,Bundesrat,82,Umwelt,0.08536585365853659,7
+2003,Nationalrat,1054,Umwelt,0.056925996204933584,60
+2003,Ständerat,115,Umwelt,0.06086956521739131,7
+2003,Bundesrat,73,Umwelt,0,0
+2003,Volksinitiative,2,Umwelt,0,0
+2004,Nationalrat,1249,Umwelt,0.0744595676541233,93
+2004,Ständerat,123,Umwelt,0.0813008130081301,10
+2004,Bundesrat,75,Umwelt,0.08,6
+2004,Volksinitiative,3,Umwelt,0.33333333333333337,1
+2005,Nationalrat,1348,Umwelt,0.07937685459940652,107
+2005,Ständerat,135,Umwelt,0.059259259259259255,8
+2005,Bundesrat,74,Umwelt,0.04054054054054054,3
+2005,Volksinitiative,3,Umwelt,0,0
+2006,Nationalrat,1352,Umwelt,0.07618343195266272,103
+2006,Ständerat,124,Umwelt,0.06451612903225806,8
+2006,Bundesrat,91,Umwelt,0.02197802197802198,2
+2006,Volksinitiative,6,Umwelt,0,0
+2007,Nationalrat,1398,Umwelt,0.0844062947067239,118
+2007,Ständerat,136,Umwelt,0.08823529411764706,12
+2007,Bundesrat,82,Umwelt,0,0
+2007,Volksinitiative,4,Umwelt,0.75,3
+2008,Nationalrat,1644,Umwelt,0.06386861313868614,105
+2008,Ständerat,142,Umwelt,0.04225352112676056,6
+2008,Bundesrat,60,Umwelt,0.016666666666666666,1
+2008,Volksinitiative,6,Umwelt,0.16666666666666669,1
+2009,Nationalrat,2104,Umwelt,0.060361216730038025,127
+2009,Ständerat,201,Umwelt,0.06467661691542288,13
+2009,Bundesrat,79,Umwelt,0.012658227848101267,1
+2009,Volksinitiative,7,Umwelt,0.14285714285714288,1
+2010,Nationalrat,1873,Umwelt,0.06300053390282968,118
+2010,Ständerat,184,Umwelt,0.059782608695652176,11
+2010,Bundesrat,100,Umwelt,0.03,3
+2010,Volksinitiative,6,Umwelt,0.16666666666666669,1
+2011,Nationalrat,1792,Umwelt,0.046875,84
+2011,Ständerat,179,Umwelt,0.03910614525139665,7
+2011,Bundesrat,61,Umwelt,0.04918032786885246,3
+2011,Volksinitiative,3,Umwelt,0,0
+2012,Nationalrat,1852,Umwelt,0.06965442764578833,129
+2012,Ständerat,187,Umwelt,0.05882352941176471,11
+2012,Bundesrat,84,Umwelt,0.047619047619047616,4
+2012,Volksinitiative,10,Umwelt,0,0
+2013,Nationalrat,1940,Umwelt,0.06804123711340206,132
+2013,Ständerat,182,Umwelt,0.038461538461538464,7
+2013,Bundesrat,86,Umwelt,0.03488372093023256,3
+2013,Volksinitiative,11,Umwelt,0,0
+2014,Nationalrat,1994,Umwelt,0.10080240722166499,201
+2014,Ständerat,185,Umwelt,0.07567567567567568,14
+2014,Bundesrat,84,Umwelt,0.03571428571428572,3
+2014,Volksinitiative,7,Umwelt,0.14285714285714288,1
+2015,Nationalrat,1944,Umwelt,0.11934156378600823,232
+2015,Ständerat,174,Umwelt,0.06896551724137931,12
+2015,Bundesrat,71,Umwelt,0.04225352112676056,3
+2015,Volksinitiative,4,Umwelt,0,0
+2016,Nationalrat,1811,Umwelt,0.09387078961899503,170
+2016,Ständerat,171,Umwelt,0.07017543859649122,12
+2016,Bundesrat,69,Umwelt,0.043478260869565216,3
+2016,Volksinitiative,3,Umwelt,0.33333333333333337,1
+2017,Nationalrat,2048,Umwelt,0.12353515625,253
+2017,Ständerat,179,Umwelt,0.10614525139664804,19
+2017,Bundesrat,60,Umwelt,0.08333333333333334,5
+2017,Volksinitiative,7,Umwelt,0.28571428571428575,2
+2018,Nationalrat,1127,Umwelt,0.1126885536823425,127
+2018,Ständerat,82,Umwelt,0.06097560975609756,5
+2018,Bundesrat,39,Umwelt,0,0
+2018,Volksinitiative,2,Umwelt,0,0
+2000,Nationalrat,239,Energie,0.016736401673640166,4
+2000,Ständerat,33,Energie,0.030303030303030304,1
+2000,Bundesrat,9,Energie,0,0
+2000,Volksinitiative,5,Energie,0,0
+2001,Nationalrat,1172,Energie,0.030716723549488054,36
+2001,Ständerat,122,Energie,0.01639344262295082,2
+2001,Bundesrat,70,Energie,0,0
+2001,Volksinitiative,5,Energie,0.2,1
+2002,Nationalrat,1139,Energie,0.021071115013169446,24
+2002,Ständerat,138,Energie,0.007246376811594203,1
+2002,Bundesrat,82,Energie,0,0
+2003,Nationalrat,1054,Energie,0.029411764705882356,31
+2003,Ständerat,115,Energie,0.017391304347826087,2
+2003,Bundesrat,73,Energie,0,0
+2003,Volksinitiative,2,Energie,0,0
+2004,Nationalrat,1249,Energie,0.016012810248198558,20
+2004,Ständerat,123,Energie,0,0
+2004,Bundesrat,75,Energie,0.013333333333333332,1
+2004,Volksinitiative,3,Energie,0,0
+2005,Nationalrat,1348,Energie,0.029673590504451036,40
+2005,Ständerat,135,Energie,0.007407407407407407,1
+2005,Bundesrat,74,Energie,0.013513513513513513,1
+2005,Volksinitiative,3,Energie,0,0
+2006,Nationalrat,1352,Energie,0.03772189349112426,51
+2006,Ständerat,124,Energie,0.03225806451612903,4
+2006,Bundesrat,91,Energie,0.01098901098901099,1
+2006,Volksinitiative,6,Energie,0,0
+2007,Nationalrat,1398,Energie,0.07010014306151645,98
+2007,Ständerat,136,Energie,0.11029411764705882,15
+2007,Bundesrat,82,Energie,0.012195121951219513,1
+2007,Volksinitiative,4,Energie,0,0
+2008,Nationalrat,1644,Energie,0.08029197080291971,132
+2008,Ständerat,142,Energie,0.07042253521126761,10
+2008,Bundesrat,60,Energie,0.05,3
+2008,Volksinitiative,6,Energie,0,0
+2009,Nationalrat,2104,Energie,0.04990494296577947,105
+2009,Ständerat,201,Energie,0.03980099502487562,8
+2009,Bundesrat,79,Energie,0.012658227848101267,1
+2009,Volksinitiative,7,Energie,0,0
+2010,Nationalrat,1873,Energie,0.06513614522156967,122
+2010,Ständerat,184,Energie,0.059782608695652176,11
+2010,Bundesrat,100,Energie,0.01,1
+2010,Volksinitiative,6,Energie,0,0
+2011,Nationalrat,1792,Energie,0.13950892857142858,250
+2011,Ständerat,179,Energie,0.19553072625698323,35
+2011,Bundesrat,61,Energie,0.01639344262295082,1
+2011,Volksinitiative,3,Energie,0,0
+2012,Nationalrat,1852,Energie,0.07181425485961122,133
+2012,Ständerat,187,Energie,0.0748663101604278,14
+2012,Bundesrat,84,Energie,0.011904761904761904,1
+2012,Volksinitiative,10,Energie,0.1,1
+2013,Nationalrat,1940,Energie,0.07061855670103093,137
+2013,Ständerat,182,Energie,0.04395604395604396,8
+2013,Bundesrat,86,Energie,0.011627906976744186,1
+2013,Volksinitiative,11,Energie,0.18181818181818182,2
+2014,Nationalrat,1994,Energie,0.06519558676028084,130
+2014,Ständerat,185,Energie,0.021621621621621623,4
+2014,Bundesrat,84,Energie,0,0
+2014,Volksinitiative,7,Energie,0.14285714285714288,1
+2015,Nationalrat,1944,Energie,0.0668724279835391,130
+2015,Ständerat,174,Energie,0.04597701149425287,8
+2015,Bundesrat,71,Energie,0.04225352112676056,3
+2015,Volksinitiative,4,Energie,0,0
+2016,Nationalrat,1811,Energie,0.06460519050248481,117
+2016,Ständerat,171,Energie,0.04678362573099415,8
+2016,Bundesrat,69,Energie,0.014492753623188406,1
+2016,Volksinitiative,3,Energie,0,0
+2017,Nationalrat,2048,Energie,0.03515625,72
+2017,Ständerat,179,Energie,0.03910614525139665,7
+2017,Bundesrat,60,Energie,0,0
+2017,Volksinitiative,7,Energie,0,0
+2018,Nationalrat,1127,Energie,0.05235137533274179,59
+2018,Ständerat,82,Energie,0.04878048780487805,4
+2018,Bundesrat,39,Energie,0.025641025641025644,1
+2018,Volksinitiative,2,Energie,0,0
+2000,Nationalrat,239,Staatspolitik,0.12133891213389121,29
+2000,Ständerat,33,Staatspolitik,0.09090909090909091,3
+2000,Bundesrat,9,Staatspolitik,0,0
+2000,Volksinitiative,5,Staatspolitik,0,0
+2001,Nationalrat,1172,Staatspolitik,0.06655290102389079,78
+2001,Ständerat,122,Staatspolitik,0.13114754098360656,16
+2001,Bundesrat,70,Staatspolitik,0.14285714285714288,10
+2001,Volksinitiative,5,Staatspolitik,0,0
+2002,Nationalrat,1139,Staatspolitik,0.048287971905179985,55
+2002,Ständerat,138,Staatspolitik,0.10869565217391304,15
+2002,Bundesrat,82,Staatspolitik,0.03658536585365854,3
+2003,Nationalrat,1054,Staatspolitik,0.07020872865275142,74
+2003,Ständerat,115,Staatspolitik,0.09565217391304348,11
+2003,Bundesrat,73,Staatspolitik,0.08219178082191782,6
+2003,Volksinitiative,2,Staatspolitik,0,0
+2004,Nationalrat,1249,Staatspolitik,0.09047237790232186,113
+2004,Ständerat,123,Staatspolitik,0.07317073170731708,9
+2004,Bundesrat,75,Staatspolitik,0.10666666666666666,8
+2004,Volksinitiative,3,Staatspolitik,0,0
+2005,Nationalrat,1348,Staatspolitik,0.09866468842729971,133
+2005,Ständerat,135,Staatspolitik,0.0962962962962963,13
+2005,Bundesrat,74,Staatspolitik,0.04054054054054054,3
+2005,Volksinitiative,3,Staatspolitik,0.33333333333333337,1
+2006,Nationalrat,1352,Staatspolitik,0.08505917159763314,115
+2006,Ständerat,124,Staatspolitik,0.06451612903225806,8
+2006,Bundesrat,91,Staatspolitik,0.054945054945054944,5
+2006,Volksinitiative,6,Staatspolitik,0.16666666666666669,1
+2007,Nationalrat,1398,Staatspolitik,0.10515021459227468,147
+2007,Ständerat,136,Staatspolitik,0.05882352941176471,8
+2007,Bundesrat,82,Staatspolitik,0.024390243902439025,2
+2007,Volksinitiative,4,Staatspolitik,0,0
+2008,Nationalrat,1644,Staatspolitik,0.06569343065693431,108
+2008,Ständerat,142,Staatspolitik,0.04929577464788732,7
+2008,Bundesrat,60,Staatspolitik,0.05,3
+2008,Volksinitiative,6,Staatspolitik,0,0
+2009,Nationalrat,2104,Staatspolitik,0.07461977186311787,157
+2009,Ständerat,201,Staatspolitik,0.06965174129353234,14
+2009,Bundesrat,79,Staatspolitik,0.06329113924050633,5
+2009,Volksinitiative,7,Staatspolitik,0,0
+2010,Nationalrat,1873,Staatspolitik,0.07581420181526961,142
+2010,Ständerat,184,Staatspolitik,0.10869565217391304,20
+2010,Bundesrat,100,Staatspolitik,0.03,3
+2010,Volksinitiative,6,Staatspolitik,0.16666666666666669,1
+2011,Nationalrat,1792,Staatspolitik,0.06975446428571429,125
+2011,Ständerat,179,Staatspolitik,0.07262569832402234,13
+2011,Bundesrat,61,Staatspolitik,0.06557377049180328,4
+2011,Volksinitiative,3,Staatspolitik,0,0
+2012,Nationalrat,1852,Staatspolitik,0.07397408207343412,137
+2012,Ständerat,187,Staatspolitik,0.11764705882352942,22
+2012,Bundesrat,84,Staatspolitik,0.09523809523809523,8
+2012,Volksinitiative,10,Staatspolitik,0.1,1
+2013,Nationalrat,1940,Staatspolitik,0.09278350515463918,180
+2013,Ständerat,182,Staatspolitik,0.12637362637362637,23
+2013,Bundesrat,86,Staatspolitik,0.08139534883720931,7
+2013,Volksinitiative,11,Staatspolitik,0,0
+2014,Nationalrat,1994,Staatspolitik,0.11885656970912738,237
+2014,Ständerat,185,Staatspolitik,0.16756756756756758,31
+2014,Bundesrat,84,Staatspolitik,0.047619047619047616,4
+2014,Volksinitiative,7,Staatspolitik,0.14285714285714288,1
+2015,Nationalrat,1944,Staatspolitik,0.12397119341563785,241
+2015,Ständerat,174,Staatspolitik,0.16091954022988506,28
+2015,Bundesrat,71,Staatspolitik,0.08450704225352113,6
+2015,Volksinitiative,4,Staatspolitik,0,0
+2016,Nationalrat,1811,Staatspolitik,0.20209828823854223,366
+2016,Ständerat,171,Staatspolitik,0.19883040935672514,34
+2016,Bundesrat,69,Staatspolitik,0.13043478260869565,9
+2016,Volksinitiative,3,Staatspolitik,0,0
+2017,Nationalrat,2048,Staatspolitik,0.19189453125,393
+2017,Ständerat,179,Staatspolitik,0.19553072625698323,35
+2017,Bundesrat,60,Staatspolitik,0.11666666666666665,7
+2017,Volksinitiative,7,Staatspolitik,0.42857142857142855,3
+2018,Nationalrat,1127,Staatspolitik,0.27684117125110913,312
+2018,Ständerat,82,Staatspolitik,0.25609756097560976,21
+2018,Bundesrat,39,Staatspolitik,0.12820512820512822,5
+2018,Volksinitiative,2,Staatspolitik,0,0
+2000,Nationalrat,239,Parlament,0.008368200836820083,2
+2000,Ständerat,33,Parlament,0.030303030303030304,1
+2000,Bundesrat,9,Parlament,0,0
+2000,Volksinitiative,5,Parlament,0,0
+2001,Nationalrat,1172,Parlament,0.023890784982935155,28
+2001,Ständerat,122,Parlament,0.01639344262295082,2
+2001,Bundesrat,70,Parlament,0,0
+2001,Volksinitiative,5,Parlament,0,0
+2002,Nationalrat,1139,Parlament,0.019315188762071993,22
+2002,Ständerat,138,Parlament,0.021739130434782608,3
+2002,Bundesrat,82,Parlament,0,0
+2003,Nationalrat,1054,Parlament,0.018026565464895637,19
+2003,Ständerat,115,Parlament,0.10434782608695653,12
+2003,Bundesrat,73,Parlament,0,0
+2003,Volksinitiative,2,Parlament,0,0
+2004,Nationalrat,1249,Parlament,0.028022417934347475,35
+2004,Ständerat,123,Parlament,0.0813008130081301,10
+2004,Bundesrat,75,Parlament,0.013333333333333332,1
+2004,Volksinitiative,3,Parlament,0,0
+2005,Nationalrat,1348,Parlament,0.020029673590504452,27
+2005,Ständerat,135,Parlament,0.059259259259259255,8
+2005,Bundesrat,74,Parlament,0.013513513513513513,1
+2005,Volksinitiative,3,Parlament,0,0
+2006,Nationalrat,1352,Parlament,0.031804733727810654,43
+2006,Ständerat,124,Parlament,0.05645161290322581,7
+2006,Bundesrat,91,Parlament,0.02197802197802198,2
+2006,Volksinitiative,6,Parlament,0,0
+2007,Nationalrat,1398,Parlament,0.027896995708154505,39
+2007,Ständerat,136,Parlament,0.03676470588235294,5
+2007,Bundesrat,82,Parlament,0.012195121951219513,1
+2007,Volksinitiative,4,Parlament,0,0
+2008,Nationalrat,1644,Parlament,0.024939172749391728,41
+2008,Ständerat,142,Parlament,0.04225352112676056,6
+2008,Bundesrat,60,Parlament,0.016666666666666666,1
+2008,Volksinitiative,6,Parlament,0,0
+2009,Nationalrat,2104,Parlament,0.02043726235741445,43
+2009,Ständerat,201,Parlament,0.04477611940298507,9
+2009,Bundesrat,79,Parlament,0.012658227848101267,1
+2009,Volksinitiative,7,Parlament,0,0
+2010,Nationalrat,1873,Parlament,0.019220501868659905,36
+2010,Ständerat,184,Parlament,0.06521739130434782,12
+2010,Bundesrat,100,Parlament,0.01,1
+2010,Volksinitiative,6,Parlament,0,0
+2011,Nationalrat,1792,Parlament,0.014508928571428572,26
+2011,Ständerat,179,Parlament,0.04469273743016759,8
+2011,Bundesrat,61,Parlament,0.03278688524590164,2
+2011,Volksinitiative,3,Parlament,0,0
+2012,Nationalrat,1852,Parlament,0.012958963282937365,24
+2012,Ständerat,187,Parlament,0.04278074866310161,8
+2012,Bundesrat,84,Parlament,0.023809523809523808,2
+2012,Volksinitiative,10,Parlament,0.1,1
+2013,Nationalrat,1940,Parlament,0.013402061855670102,26
+2013,Ständerat,182,Parlament,0.06043956043956044,11
+2013,Bundesrat,86,Parlament,0.011627906976744186,1
+2013,Volksinitiative,11,Parlament,0,0
+2014,Nationalrat,1994,Parlament,0.020060180541624874,40
+2014,Ständerat,185,Parlament,0.043243243243243246,8
+2014,Bundesrat,84,Parlament,0.011904761904761904,1
+2014,Volksinitiative,7,Parlament,0,0
+2015,Nationalrat,1944,Parlament,0.02932098765432099,57
+2015,Ständerat,174,Parlament,0.09195402298850575,16
+2015,Bundesrat,71,Parlament,0.02816901408450704,2
+2015,Volksinitiative,4,Parlament,0,0
+2016,Nationalrat,1811,Parlament,0.020430701270016564,37
+2016,Ständerat,171,Parlament,0.07602339181286549,13
+2016,Bundesrat,69,Parlament,0.028985507246376812,2
+2016,Volksinitiative,3,Parlament,0,0
+2017,Nationalrat,2048,Parlament,0.0205078125,42
+2017,Ständerat,179,Parlament,0.06145251396648045,11
+2017,Bundesrat,60,Parlament,0.016666666666666666,1
+2017,Volksinitiative,7,Parlament,0,0
+2018,Nationalrat,1127,Parlament,0.027506654835847383,31
+2018,Ständerat,82,Parlament,0.024390243902439025,2
+2018,Bundesrat,39,Parlament,0,0
+2018,Volksinitiative,2,Parlament,0,0
+2000,Nationalrat,239,Recht allgemein,0.12552301255230125,30
+2000,Ständerat,33,Recht allgemein,0.18181818181818182,6
+2000,Bundesrat,9,Recht allgemein,0.33333333333333337,3
+2000,Volksinitiative,5,Recht allgemein,0.4,2
+2001,Nationalrat,1172,Recht allgemein,0.06825938566552901,80
+2001,Ständerat,122,Recht allgemein,0.07377049180327869,9
+2001,Bundesrat,70,Recht allgemein,0.17142857142857143,12
+2001,Volksinitiative,5,Recht allgemein,0.4,2
+2002,Nationalrat,1139,Recht allgemein,0.048287971905179985,55
+2002,Ständerat,138,Recht allgemein,0.028985507246376812,4
+2002,Bundesrat,82,Recht allgemein,0.08536585365853659,7
+2003,Nationalrat,1054,Recht allgemein,0.04554079696394687,48
+2003,Ständerat,115,Recht allgemein,0.034782608695652174,4
+2003,Bundesrat,73,Recht allgemein,0.1095890410958904,8
+2003,Volksinitiative,2,Recht allgemein,0,0
+2004,Nationalrat,1249,Recht allgemein,0.07926341072858287,99
+2004,Ständerat,123,Recht allgemein,0.06504065040650406,8
+2004,Bundesrat,75,Recht allgemein,0.10666666666666666,8
+2004,Volksinitiative,3,Recht allgemein,0,0
+2005,Nationalrat,1348,Recht allgemein,0.05637982195845697,76
+2005,Ständerat,135,Recht allgemein,0.059259259259259255,8
+2005,Bundesrat,74,Recht allgemein,0.2162162162162162,16
+2005,Volksinitiative,3,Recht allgemein,0,0
+2006,Nationalrat,1352,Recht allgemein,0.10502958579881656,142
+2006,Ständerat,124,Recht allgemein,0.10483870967741936,13
+2006,Bundesrat,91,Recht allgemein,0.2087912087912088,19
+2006,Volksinitiative,6,Recht allgemein,0.16666666666666669,1
+2007,Nationalrat,1398,Recht allgemein,0.07868383404864092,110
+2007,Ständerat,136,Recht allgemein,0.0661764705882353,9
+2007,Bundesrat,82,Recht allgemein,0.1951219512195122,16
+2007,Volksinitiative,4,Recht allgemein,0.25,1
+2008,Nationalrat,1644,Recht allgemein,0.06751824817518248,111
+2008,Ständerat,142,Recht allgemein,0.1267605633802817,18
+2008,Bundesrat,60,Recht allgemein,0.13333333333333333,8
+2008,Volksinitiative,6,Recht allgemein,0.16666666666666669,1
+2009,Nationalrat,2104,Recht allgemein,0.09363117870722433,197
+2009,Ständerat,201,Recht allgemein,0.0746268656716418,15
+2009,Bundesrat,79,Recht allgemein,0.08860759493670885,7
+2009,Volksinitiative,7,Recht allgemein,0,0
+2010,Nationalrat,1873,Recht allgemein,0.0811532301121196,152
+2010,Ständerat,184,Recht allgemein,0.08695652173913043,16
+2010,Bundesrat,100,Recht allgemein,0.08,8
+2010,Volksinitiative,6,Recht allgemein,0,0
+2011,Nationalrat,1792,Recht allgemein,0.060267857142857144,108
+2011,Ständerat,179,Recht allgemein,0.05027932960893855,9
+2011,Bundesrat,61,Recht allgemein,0.14754098360655737,9
+2011,Volksinitiative,3,Recht allgemein,0,0
+2012,Nationalrat,1852,Recht allgemein,0.0826133909287257,153
+2012,Ständerat,187,Recht allgemein,0.14438502673796794,27
+2012,Bundesrat,84,Recht allgemein,0.11904761904761905,10
+2012,Volksinitiative,10,Recht allgemein,0.1,1
+2013,Nationalrat,1940,Recht allgemein,0.0958762886597938,186
+2013,Ständerat,182,Recht allgemein,0.10989010989010989,20
+2013,Bundesrat,86,Recht allgemein,0.12790697674418605,11
+2013,Volksinitiative,11,Recht allgemein,0,0
+2014,Nationalrat,1994,Recht allgemein,0.0391173520561685,78
+2014,Ständerat,185,Recht allgemein,0.07567567567567568,14
+2014,Bundesrat,84,Recht allgemein,0.09523809523809523,8
+2014,Volksinitiative,7,Recht allgemein,0,0
+2015,Nationalrat,1944,Recht allgemein,0.012345679012345678,24
+2015,Ständerat,174,Recht allgemein,0.034482758620689655,6
+2015,Bundesrat,71,Recht allgemein,0,0
+2015,Volksinitiative,4,Recht allgemein,0,0
+2016,Nationalrat,1811,Recht allgemein,0.00883489784649365,16
+2016,Ständerat,171,Recht allgemein,0,0
+2016,Bundesrat,69,Recht allgemein,0,0
+2016,Volksinitiative,3,Recht allgemein,0,0
+2017,Nationalrat,2048,Recht allgemein,0.00732421875,15
+2017,Ständerat,179,Recht allgemein,0.01675977653631285,3
+2017,Bundesrat,60,Recht allgemein,0.03333333333333333,2
+2017,Volksinitiative,7,Recht allgemein,0.14285714285714288,1
+2018,Nationalrat,1127,Recht allgemein,0.0292812777284827,33
+2018,Ständerat,82,Recht allgemein,0.024390243902439025,2
+2018,Bundesrat,39,Recht allgemein,0.05128205128205129,2
+2018,Volksinitiative,2,Recht allgemein,0,0
+2000,Nationalrat,239,Zivilrecht,NA,NA
+2000,Ständerat,33,Zivilrecht,NA,NA
+2000,Bundesrat,9,Zivilrecht,NA,NA
+2000,Volksinitiative,5,Zivilrecht,NA,NA
+2001,Nationalrat,1172,Zivilrecht,NA,NA
+2001,Ständerat,122,Zivilrecht,NA,NA
+2001,Bundesrat,70,Zivilrecht,NA,NA
+2001,Volksinitiative,5,Zivilrecht,NA,NA
+2002,Nationalrat,1139,Zivilrecht,NA,NA
+2002,Ständerat,138,Zivilrecht,NA,NA
+2002,Bundesrat,82,Zivilrecht,NA,NA
+2003,Nationalrat,1054,Zivilrecht,NA,NA
+2003,Ständerat,115,Zivilrecht,NA,NA
+2003,Bundesrat,73,Zivilrecht,NA,NA
+2003,Volksinitiative,2,Zivilrecht,NA,NA
+2004,Nationalrat,1249,Zivilrecht,NA,NA
+2004,Ständerat,123,Zivilrecht,NA,NA
+2004,Bundesrat,75,Zivilrecht,NA,NA
+2004,Volksinitiative,3,Zivilrecht,NA,NA
+2005,Nationalrat,1348,Zivilrecht,NA,NA
+2005,Ständerat,135,Zivilrecht,NA,NA
+2005,Bundesrat,74,Zivilrecht,NA,NA
+2005,Volksinitiative,3,Zivilrecht,NA,NA
+2006,Nationalrat,1352,Zivilrecht,NA,NA
+2006,Ständerat,124,Zivilrecht,NA,NA
+2006,Bundesrat,91,Zivilrecht,NA,NA
+2006,Volksinitiative,6,Zivilrecht,NA,NA
+2007,Nationalrat,1398,Zivilrecht,NA,NA
+2007,Ständerat,136,Zivilrecht,NA,NA
+2007,Bundesrat,82,Zivilrecht,NA,NA
+2007,Volksinitiative,4,Zivilrecht,NA,NA
+2008,Nationalrat,1644,Zivilrecht,NA,NA
+2008,Ständerat,142,Zivilrecht,NA,NA
+2008,Bundesrat,60,Zivilrecht,NA,NA
+2008,Volksinitiative,6,Zivilrecht,NA,NA
+2009,Nationalrat,2104,Zivilrecht,NA,NA
+2009,Ständerat,201,Zivilrecht,NA,NA
+2009,Bundesrat,79,Zivilrecht,NA,NA
+2009,Volksinitiative,7,Zivilrecht,NA,NA
+2010,Nationalrat,1873,Zivilrecht,NA,NA
+2010,Ständerat,184,Zivilrecht,NA,NA
+2010,Bundesrat,100,Zivilrecht,NA,NA
+2010,Volksinitiative,6,Zivilrecht,NA,NA
+2011,Nationalrat,1792,Zivilrecht,NA,NA
+2011,Ständerat,179,Zivilrecht,NA,NA
+2011,Bundesrat,61,Zivilrecht,NA,NA
+2011,Volksinitiative,3,Zivilrecht,NA,NA
+2012,Nationalrat,1852,Zivilrecht,0.008099352051835852,15
+2012,Ständerat,187,Zivilrecht,0,0
+2012,Bundesrat,84,Zivilrecht,0,0
+2012,Volksinitiative,10,Zivilrecht,0,0
+2013,Nationalrat,1940,Zivilrecht,0.002061855670103093,4
+2013,Ständerat,182,Zivilrecht,0,0
+2013,Bundesrat,86,Zivilrecht,0,0
+2013,Volksinitiative,11,Zivilrecht,0,0
+2014,Nationalrat,1994,Zivilrecht,0.027081243731193583,54
+2014,Ständerat,185,Zivilrecht,0.016216216216216217,3
+2014,Bundesrat,84,Zivilrecht,0.047619047619047616,4
+2014,Volksinitiative,7,Zivilrecht,0,0
+2015,Nationalrat,1944,Zivilrecht,0.04218106995884773,82
+2015,Ständerat,174,Zivilrecht,0.028735632183908046,5
+2015,Bundesrat,71,Zivilrecht,0.07042253521126761,5
+2015,Volksinitiative,4,Zivilrecht,0.25,1
+2016,Nationalrat,1811,Zivilrecht,0.039204859193815576,71
+2016,Ständerat,171,Zivilrecht,0.017543859649122806,3
+2016,Bundesrat,69,Zivilrecht,0.028985507246376812,2
+2016,Volksinitiative,3,Zivilrecht,0,0
+2017,Nationalrat,2048,Zivilrecht,0.0400390625,82
+2017,Ständerat,179,Zivilrecht,0.022346368715083796,4
+2017,Bundesrat,60,Zivilrecht,0.06666666666666667,4
+2017,Volksinitiative,7,Zivilrecht,0,0
+2018,Nationalrat,1127,Zivilrecht,0.031055900621118012,35
+2018,Ständerat,82,Zivilrecht,0.13414634146341464,11
+2018,Bundesrat,39,Zivilrecht,0.025641025641025644,1
+2018,Volksinitiative,2,Zivilrecht,0,0
+2000,Nationalrat,239,Strafrecht,NA,NA
+2000,Ständerat,33,Strafrecht,NA,NA
+2000,Bundesrat,9,Strafrecht,NA,NA
+2000,Volksinitiative,5,Strafrecht,NA,NA
+2001,Nationalrat,1172,Strafrecht,NA,NA
+2001,Ständerat,122,Strafrecht,NA,NA
+2001,Bundesrat,70,Strafrecht,NA,NA
+2001,Volksinitiative,5,Strafrecht,NA,NA
+2002,Nationalrat,1139,Strafrecht,NA,NA
+2002,Ständerat,138,Strafrecht,NA,NA
+2002,Bundesrat,82,Strafrecht,NA,NA
+2003,Nationalrat,1054,Strafrecht,NA,NA
+2003,Ständerat,115,Strafrecht,NA,NA
+2003,Bundesrat,73,Strafrecht,NA,NA
+2003,Volksinitiative,2,Strafrecht,NA,NA
+2004,Nationalrat,1249,Strafrecht,NA,NA
+2004,Ständerat,123,Strafrecht,NA,NA
+2004,Bundesrat,75,Strafrecht,NA,NA
+2004,Volksinitiative,3,Strafrecht,NA,NA
+2005,Nationalrat,1348,Strafrecht,NA,NA
+2005,Ständerat,135,Strafrecht,NA,NA
+2005,Bundesrat,74,Strafrecht,NA,NA
+2005,Volksinitiative,3,Strafrecht,NA,NA
+2006,Nationalrat,1352,Strafrecht,NA,NA
+2006,Ständerat,124,Strafrecht,NA,NA
+2006,Bundesrat,91,Strafrecht,NA,NA
+2006,Volksinitiative,6,Strafrecht,NA,NA
+2007,Nationalrat,1398,Strafrecht,NA,NA
+2007,Ständerat,136,Strafrecht,NA,NA
+2007,Bundesrat,82,Strafrecht,NA,NA
+2007,Volksinitiative,4,Strafrecht,NA,NA
+2008,Nationalrat,1644,Strafrecht,NA,NA
+2008,Ständerat,142,Strafrecht,NA,NA
+2008,Bundesrat,60,Strafrecht,NA,NA
+2008,Volksinitiative,6,Strafrecht,NA,NA
+2009,Nationalrat,2104,Strafrecht,NA,NA
+2009,Ständerat,201,Strafrecht,NA,NA
+2009,Bundesrat,79,Strafrecht,NA,NA
+2009,Volksinitiative,7,Strafrecht,NA,NA
+2010,Nationalrat,1873,Strafrecht,NA,NA
+2010,Ständerat,184,Strafrecht,NA,NA
+2010,Bundesrat,100,Strafrecht,NA,NA
+2010,Volksinitiative,6,Strafrecht,NA,NA
+2011,Nationalrat,1792,Strafrecht,NA,NA
+2011,Ständerat,179,Strafrecht,NA,NA
+2011,Bundesrat,61,Strafrecht,NA,NA
+2011,Volksinitiative,3,Strafrecht,NA,NA
+2012,Nationalrat,1852,Strafrecht,0.003779697624190065,7
+2012,Ständerat,187,Strafrecht,0,0
+2012,Bundesrat,84,Strafrecht,0,0
+2012,Volksinitiative,10,Strafrecht,0,0
+2013,Nationalrat,1940,Strafrecht,0.003608247422680412,7
+2013,Ständerat,182,Strafrecht,0,0
+2013,Bundesrat,86,Strafrecht,0,0
+2013,Volksinitiative,11,Strafrecht,0,0
+2014,Nationalrat,1994,Strafrecht,0.023570712136409225,47
+2014,Ständerat,185,Strafrecht,0.010810810810810811,2
+2014,Bundesrat,84,Strafrecht,0.023809523809523808,2
+2014,Volksinitiative,7,Strafrecht,0,0
+2015,Nationalrat,1944,Strafrecht,0.04166666666666667,81
+2015,Ständerat,174,Strafrecht,0.040229885057471264,7
+2015,Bundesrat,71,Strafrecht,0,0
+2015,Volksinitiative,4,Strafrecht,0,0
+2016,Nationalrat,1811,Strafrecht,0.05135284373274434,93
+2016,Ständerat,171,Strafrecht,0.07017543859649122,12
+2016,Bundesrat,69,Strafrecht,0.057971014492753624,4
+2016,Volksinitiative,3,Strafrecht,0,0
+2017,Nationalrat,2048,Strafrecht,0.06982421875,143
+2017,Ständerat,179,Strafrecht,0.03910614525139665,7
+2017,Bundesrat,60,Strafrecht,0.016666666666666666,1
+2017,Volksinitiative,7,Strafrecht,0,0
+2018,Nationalrat,1127,Strafrecht,0.064773735581189,73
+2018,Ständerat,82,Strafrecht,0.0975609756097561,8
+2018,Bundesrat,39,Strafrecht,0.07692307692307693,3
+2018,Volksinitiative,2,Strafrecht,0,0
+2000,Nationalrat,239,Gerichtswesen,NA,NA
+2000,Ständerat,33,Gerichtswesen,NA,NA
+2000,Bundesrat,9,Gerichtswesen,NA,NA
+2000,Volksinitiative,5,Gerichtswesen,NA,NA
+2001,Nationalrat,1172,Gerichtswesen,NA,NA
+2001,Ständerat,122,Gerichtswesen,NA,NA
+2001,Bundesrat,70,Gerichtswesen,NA,NA
+2001,Volksinitiative,5,Gerichtswesen,NA,NA
+2002,Nationalrat,1139,Gerichtswesen,NA,NA
+2002,Ständerat,138,Gerichtswesen,NA,NA
+2002,Bundesrat,82,Gerichtswesen,NA,NA
+2003,Nationalrat,1054,Gerichtswesen,NA,NA
+2003,Ständerat,115,Gerichtswesen,NA,NA
+2003,Bundesrat,73,Gerichtswesen,NA,NA
+2003,Volksinitiative,2,Gerichtswesen,NA,NA
+2004,Nationalrat,1249,Gerichtswesen,NA,NA
+2004,Ständerat,123,Gerichtswesen,NA,NA
+2004,Bundesrat,75,Gerichtswesen,NA,NA
+2004,Volksinitiative,3,Gerichtswesen,NA,NA
+2005,Nationalrat,1348,Gerichtswesen,NA,NA
+2005,Ständerat,135,Gerichtswesen,NA,NA
+2005,Bundesrat,74,Gerichtswesen,NA,NA
+2005,Volksinitiative,3,Gerichtswesen,NA,NA
+2006,Nationalrat,1352,Gerichtswesen,NA,NA
+2006,Ständerat,124,Gerichtswesen,NA,NA
+2006,Bundesrat,91,Gerichtswesen,NA,NA
+2006,Volksinitiative,6,Gerichtswesen,NA,NA
+2007,Nationalrat,1398,Gerichtswesen,NA,NA
+2007,Ständerat,136,Gerichtswesen,NA,NA
+2007,Bundesrat,82,Gerichtswesen,NA,NA
+2007,Volksinitiative,4,Gerichtswesen,NA,NA
+2008,Nationalrat,1644,Gerichtswesen,NA,NA
+2008,Ständerat,142,Gerichtswesen,NA,NA
+2008,Bundesrat,60,Gerichtswesen,NA,NA
+2008,Volksinitiative,6,Gerichtswesen,NA,NA
+2009,Nationalrat,2104,Gerichtswesen,NA,NA
+2009,Ständerat,201,Gerichtswesen,NA,NA
+2009,Bundesrat,79,Gerichtswesen,NA,NA
+2009,Volksinitiative,7,Gerichtswesen,NA,NA
+2010,Nationalrat,1873,Gerichtswesen,NA,NA
+2010,Ständerat,184,Gerichtswesen,NA,NA
+2010,Bundesrat,100,Gerichtswesen,NA,NA
+2010,Volksinitiative,6,Gerichtswesen,NA,NA
+2011,Nationalrat,1792,Gerichtswesen,NA,NA
+2011,Ständerat,179,Gerichtswesen,NA,NA
+2011,Bundesrat,61,Gerichtswesen,NA,NA
+2011,Volksinitiative,3,Gerichtswesen,NA,NA
+2012,Nationalrat,1852,Gerichtswesen,5.399568034557236e-4,1
+2012,Ständerat,187,Gerichtswesen,0,0
+2012,Bundesrat,84,Gerichtswesen,0,0
+2012,Volksinitiative,10,Gerichtswesen,0,0
+2013,Nationalrat,1940,Gerichtswesen,0,0
+2013,Ständerat,182,Gerichtswesen,0,0
+2013,Bundesrat,86,Gerichtswesen,0,0
+2013,Volksinitiative,11,Gerichtswesen,0,0
+2014,Nationalrat,1994,Gerichtswesen,0.004012036108324975,8
+2014,Ständerat,185,Gerichtswesen,0.010810810810810811,2
+2014,Bundesrat,84,Gerichtswesen,0,0
+2014,Volksinitiative,7,Gerichtswesen,0,0
+2015,Nationalrat,1944,Gerichtswesen,0.007716049382716049,15
+2015,Ständerat,174,Gerichtswesen,0.005747126436781609,1
+2015,Bundesrat,71,Gerichtswesen,0.01408450704225352,1
+2015,Volksinitiative,4,Gerichtswesen,0,0
+2016,Nationalrat,1811,Gerichtswesen,0.009387078961899503,17
+2016,Ständerat,171,Gerichtswesen,0.011695906432748537,2
+2016,Bundesrat,69,Gerichtswesen,0.014492753623188406,1
+2016,Volksinitiative,3,Gerichtswesen,0,0
+2017,Nationalrat,2048,Gerichtswesen,0.00732421875,15
+2017,Ständerat,179,Gerichtswesen,0.005586592178770949,1
+2017,Bundesrat,60,Gerichtswesen,0.016666666666666666,1
+2017,Volksinitiative,7,Gerichtswesen,0,0
+2018,Nationalrat,1127,Gerichtswesen,0.009760425909494233,11
+2018,Ständerat,82,Gerichtswesen,0.024390243902439025,2
+2018,Bundesrat,39,Gerichtswesen,0.025641025641025644,1
+2018,Volksinitiative,2,Gerichtswesen,0,0
+2000,Nationalrat,239,Internationales Recht,NA,NA
+2000,Ständerat,33,Internationales Recht,NA,NA
+2000,Bundesrat,9,Internationales Recht,NA,NA
+2000,Volksinitiative,5,Internationales Recht,NA,NA
+2001,Nationalrat,1172,Internationales Recht,NA,NA
+2001,Ständerat,122,Internationales Recht,NA,NA
+2001,Bundesrat,70,Internationales Recht,NA,NA
+2001,Volksinitiative,5,Internationales Recht,NA,NA
+2002,Nationalrat,1139,Internationales Recht,NA,NA
+2002,Ständerat,138,Internationales Recht,NA,NA
+2002,Bundesrat,82,Internationales Recht,NA,NA
+2003,Nationalrat,1054,Internationales Recht,NA,NA
+2003,Ständerat,115,Internationales Recht,NA,NA
+2003,Bundesrat,73,Internationales Recht,NA,NA
+2003,Volksinitiative,2,Internationales Recht,NA,NA
+2004,Nationalrat,1249,Internationales Recht,NA,NA
+2004,Ständerat,123,Internationales Recht,NA,NA
+2004,Bundesrat,75,Internationales Recht,NA,NA
+2004,Volksinitiative,3,Internationales Recht,NA,NA
+2005,Nationalrat,1348,Internationales Recht,NA,NA
+2005,Ständerat,135,Internationales Recht,NA,NA
+2005,Bundesrat,74,Internationales Recht,NA,NA
+2005,Volksinitiative,3,Internationales Recht,NA,NA
+2006,Nationalrat,1352,Internationales Recht,NA,NA
+2006,Ständerat,124,Internationales Recht,NA,NA
+2006,Bundesrat,91,Internationales Recht,NA,NA
+2006,Volksinitiative,6,Internationales Recht,NA,NA
+2007,Nationalrat,1398,Internationales Recht,NA,NA
+2007,Ständerat,136,Internationales Recht,NA,NA
+2007,Bundesrat,82,Internationales Recht,NA,NA
+2007,Volksinitiative,4,Internationales Recht,NA,NA
+2008,Nationalrat,1644,Internationales Recht,NA,NA
+2008,Ständerat,142,Internationales Recht,NA,NA
+2008,Bundesrat,60,Internationales Recht,NA,NA
+2008,Volksinitiative,6,Internationales Recht,NA,NA
+2009,Nationalrat,2104,Internationales Recht,NA,NA
+2009,Ständerat,201,Internationales Recht,NA,NA
+2009,Bundesrat,79,Internationales Recht,NA,NA
+2009,Volksinitiative,7,Internationales Recht,NA,NA
+2010,Nationalrat,1873,Internationales Recht,NA,NA
+2010,Ständerat,184,Internationales Recht,NA,NA
+2010,Bundesrat,100,Internationales Recht,NA,NA
+2010,Volksinitiative,6,Internationales Recht,NA,NA
+2011,Nationalrat,1792,Internationales Recht,NA,NA
+2011,Ständerat,179,Internationales Recht,NA,NA
+2011,Bundesrat,61,Internationales Recht,NA,NA
+2011,Volksinitiative,3,Internationales Recht,NA,NA
+2012,Nationalrat,1852,Internationales Recht,0.005399568034557235,10
+2012,Ständerat,187,Internationales Recht,0,0
+2012,Bundesrat,84,Internationales Recht,0,0
+2012,Volksinitiative,10,Internationales Recht,0,0
+2013,Nationalrat,1940,Internationales Recht,0.008247422680412371,16
+2013,Ständerat,182,Internationales Recht,0,0
+2013,Bundesrat,86,Internationales Recht,0,0
+2013,Volksinitiative,11,Internationales Recht,0,0
+2014,Nationalrat,1994,Internationales Recht,0.010030090270812437,20
+2014,Ständerat,185,Internationales Recht,0.021621621621621623,4
+2014,Bundesrat,84,Internationales Recht,0.09523809523809523,8
+2014,Volksinitiative,7,Internationales Recht,0,0
+2015,Nationalrat,1944,Internationales Recht,0.01131687242798354,22
+2015,Ständerat,174,Internationales Recht,0.011494252873563218,2
+2015,Bundesrat,71,Internationales Recht,0.02816901408450704,2
+2015,Volksinitiative,4,Internationales Recht,0,0
+2016,Nationalrat,1811,Internationales Recht,0.020430701270016564,37
+2016,Ständerat,171,Internationales Recht,0.023391812865497075,4
+2016,Bundesrat,69,Internationales Recht,0.028985507246376812,2
+2016,Volksinitiative,3,Internationales Recht,0,0
+2017,Nationalrat,2048,Internationales Recht,0.009765625,20
+2017,Ständerat,179,Internationales Recht,0.01675977653631285,3
+2017,Bundesrat,60,Internationales Recht,0.03333333333333333,2
+2017,Volksinitiative,7,Internationales Recht,0.14285714285714288,1
+2018,Nationalrat,1127,Internationales Recht,0.024844720496894408,28
+2018,Ständerat,82,Internationales Recht,0.012195121951219513,1
+2018,Bundesrat,39,Internationales Recht,0.05128205128205129,2
+2018,Volksinitiative,2,Internationales Recht,0,0
+2000,Nationalrat,239,Menschenrechte,NA,NA
+2000,Ständerat,33,Menschenrechte,NA,NA
+2000,Bundesrat,9,Menschenrechte,NA,NA
+2000,Volksinitiative,5,Menschenrechte,NA,NA
+2001,Nationalrat,1172,Menschenrechte,NA,NA
+2001,Ständerat,122,Menschenrechte,NA,NA
+2001,Bundesrat,70,Menschenrechte,NA,NA
+2001,Volksinitiative,5,Menschenrechte,NA,NA
+2002,Nationalrat,1139,Menschenrechte,NA,NA
+2002,Ständerat,138,Menschenrechte,NA,NA
+2002,Bundesrat,82,Menschenrechte,NA,NA
+2003,Nationalrat,1054,Menschenrechte,NA,NA
+2003,Ständerat,115,Menschenrechte,NA,NA
+2003,Bundesrat,73,Menschenrechte,NA,NA
+2003,Volksinitiative,2,Menschenrechte,NA,NA
+2004,Nationalrat,1249,Menschenrechte,NA,NA
+2004,Ständerat,123,Menschenrechte,NA,NA
+2004,Bundesrat,75,Menschenrechte,NA,NA
+2004,Volksinitiative,3,Menschenrechte,NA,NA
+2005,Nationalrat,1348,Menschenrechte,NA,NA
+2005,Ständerat,135,Menschenrechte,NA,NA
+2005,Bundesrat,74,Menschenrechte,NA,NA
+2005,Volksinitiative,3,Menschenrechte,NA,NA
+2006,Nationalrat,1352,Menschenrechte,NA,NA
+2006,Ständerat,124,Menschenrechte,NA,NA
+2006,Bundesrat,91,Menschenrechte,NA,NA
+2006,Volksinitiative,6,Menschenrechte,NA,NA
+2007,Nationalrat,1398,Menschenrechte,NA,NA
+2007,Ständerat,136,Menschenrechte,NA,NA
+2007,Bundesrat,82,Menschenrechte,NA,NA
+2007,Volksinitiative,4,Menschenrechte,NA,NA
+2008,Nationalrat,1644,Menschenrechte,NA,NA
+2008,Ständerat,142,Menschenrechte,NA,NA
+2008,Bundesrat,60,Menschenrechte,NA,NA
+2008,Volksinitiative,6,Menschenrechte,NA,NA
+2009,Nationalrat,2104,Menschenrechte,NA,NA
+2009,Ständerat,201,Menschenrechte,NA,NA
+2009,Bundesrat,79,Menschenrechte,NA,NA
+2009,Volksinitiative,7,Menschenrechte,NA,NA
+2010,Nationalrat,1873,Menschenrechte,NA,NA
+2010,Ständerat,184,Menschenrechte,NA,NA
+2010,Bundesrat,100,Menschenrechte,NA,NA
+2010,Volksinitiative,6,Menschenrechte,NA,NA
+2011,Nationalrat,1792,Menschenrechte,NA,NA
+2011,Ständerat,179,Menschenrechte,NA,NA
+2011,Bundesrat,61,Menschenrechte,NA,NA
+2011,Volksinitiative,3,Menschenrechte,NA,NA
+2012,Nationalrat,1852,Menschenrechte,0.003779697624190065,7
+2012,Ständerat,187,Menschenrechte,0,0
+2012,Bundesrat,84,Menschenrechte,0,0
+2012,Volksinitiative,10,Menschenrechte,0,0
+2013,Nationalrat,1940,Menschenrechte,0.005670103092783505,11
+2013,Ständerat,182,Menschenrechte,0,0
+2013,Bundesrat,86,Menschenrechte,0,0
+2013,Volksinitiative,11,Menschenrechte,0,0
+2014,Nationalrat,1994,Menschenrechte,0.028084252758274822,56
+2014,Ständerat,185,Menschenrechte,0.016216216216216217,3
+2014,Bundesrat,84,Menschenrechte,0.023809523809523808,2
+2014,Volksinitiative,7,Menschenrechte,0,0
+2015,Nationalrat,1944,Menschenrechte,0.03189300411522634,62
+2015,Ständerat,174,Menschenrechte,0.034482758620689655,6
+2015,Bundesrat,71,Menschenrechte,0.02816901408450704,2
+2015,Volksinitiative,4,Menschenrechte,0.25,1
+2016,Nationalrat,1811,Menschenrechte,0.053561568194367755,97
+2016,Ständerat,171,Menschenrechte,0.04093567251461988,7
+2016,Bundesrat,69,Menschenrechte,0.014492753623188406,1
+2016,Volksinitiative,3,Menschenrechte,0,0
+2017,Nationalrat,2048,Menschenrechte,0.06201171875,127
+2017,Ständerat,179,Menschenrechte,0.05027932960893855,9
+2017,Bundesrat,60,Menschenrechte,0.03333333333333333,2
+2017,Volksinitiative,7,Menschenrechte,0.14285714285714288,1
+2018,Nationalrat,1127,Menschenrechte,0.062111801242236024,70
+2018,Ständerat,82,Menschenrechte,0.012195121951219513,1
+2018,Bundesrat,39,Menschenrechte,0.025641025641025644,1
+2018,Volksinitiative,2,Menschenrechte,0,0
