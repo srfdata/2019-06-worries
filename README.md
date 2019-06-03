@@ -1,4 +1,4 @@
-# 2019-06-elections19-p1
+# 2019-06-worries
 
 ## What worries the Swiss?
 
@@ -11,19 +11,19 @@ SRF Data attaches importance to the fact that the data pre-processing and analys
 
 ### R-Script & Daten
 
-The preprocessing and analysis of the data was conducted in the [R project for statistical computing](https://www.r-project.org/). The RMarkdown script used to generate this document and all the resulting data can be downloaded [under this link](http://srfdata.github.io/2019-06-elections19-p1/rscript.zip). Through executing `main.Rmd`, the herein described process can be reproduced and this document can be generated. In the course of this, data from the folder `input` will be processed and results will be written to `output`. 
+The preprocessing and analysis of the data was conducted in the [R project for statistical computing](https://www.r-project.org/). The RMarkdown script used to generate this document and all the resulting data can be downloaded [under this link](http://srfdata.github.io/2019-06-worries/rscript.zip). Through executing `main.Rmd`, the herein described process can be reproduced and this document can be generated. In the course of this, data from the folder `input` will be processed and results will be written to `output`. 
 
 SRF Data uses Timo Grossenbacher's [rddj-template](https://github.com/grssnbchr/rddj-template) as the basis for its R scripts. If you have problems executing this script, it may help to study the instructions from the [rddj-template](https://github.com/grssnbchr/rddj-template). 
 
 
 ### GitHub
 
-The code for the herein described process can also be freely downloaded from [https://github.com/srfdata/2019-06-elections19-p1](https://github.com/srfdata/2019-06-elections19-p1).
+The code for the herein described process can also be freely downloaded from [https://github.com/srfdata/2019-06-worries](https://github.com/srfdata/2019-06-worries).
 
 
 ### Lizenz
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">2019-06-elections19-p1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/srfdata/2019-06-elections19-p1" property="cc:attributionName" rel="cc:attributionURL">SRF Data</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Attribution ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">2019-06-worries</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/srfdata/2019-06-worries" property="cc:attributionName" rel="cc:attributionURL">SRF Data</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Attribution ShareAlike 4.0 International License</a>.
 
 
 ### Other projects
